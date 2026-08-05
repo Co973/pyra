@@ -1,0 +1,19 @@
+{
+  "metadata": {"updated_at": "2026-08-05T12:00:00Z", "source": "Representative demo data", "demo": true, "count": 14},
+  "cells": [
+    {"lat":39,"lon":-121,"risk_score":0.86,"bucket":"Extreme","weather":{"temp_c":38.4,"humidity_pct":12,"wind_ms":8.7,"wind_dir":248,"rain_7d_mm":0}},
+    {"lat":37,"lon":-7,"risk_score":0.81,"bucket":"Extreme","weather":{"temp_c":36.1,"humidity_pct":15,"wind_ms":7.2,"wind_dir":292,"rain_7d_mm":0.2}},
+    {"lat":39,"lon":25,"risk_score":0.77,"bucket":"High","weather":{"temp_c":35.2,"humidity_pct":18,"wind_ms":6.9,"wind_dir":330,"rain_7d_mm":0}},
+    {"lat":-13,"lon":133,"risk_score":0.74,"bucket":"High","weather":{"temp_c":31.8,"humidity_pct":24,"wind_ms":6.1,"wind_dir":118,"rain_7d_mm":0}},
+    {"lat":-15,"lon":27,"risk_score":0.69,"bucket":"High","weather":{"temp_c":30.6,"humidity_pct":26,"wind_ms":5.4,"wind_dir":91,"rain_7d_mm":0.4}},
+    {"lat":61,"lon":129,"risk_score":0.64,"bucket":"High","weather":{"temp_c":29.1,"humidity_pct":31,"wind_ms":4.8,"wind_dir":220,"rain_7d_mm":1.1}},
+    {"lat":-13,"lon":-55,"risk_score":0.61,"bucket":"High","weather":{"temp_c":31.4,"humidity_pct":37,"wind_ms":3.9,"wind_dir":102,"rain_7d_mm":0.8}},
+    {"lat":53,"lon":-117,"risk_score":0.58,"bucket":"Moderate","weather":{"temp_c":28.2,"humidity_pct":35,"wind_ms":4.1,"wind_dir":265,"rain_7d_mm":2.4}},
+    {"lat":35,"lon":-109,"risk_score":0.56,"bucket":"Moderate","weather":{"temp_c":32.4,"humidity_pct":28,"wind_ms":5.2,"wind_dir":210,"rain_7d_mm":5.8}},
+    {"lat":43,"lon":13,"risk_score":0.51,"bucket":"Moderate","weather":{"temp_c":30.2,"humidity_pct":34,"wind_ms":3.4,"wind_dir":17,"rain_7d_mm":4.1}},
+    {"lat":-33,"lon":121,"risk_score":0.48,"bucket":"Moderate","weather":{"temp_c":24.1,"humidity_pct":39,"wind_ms":6.2,"wind_dir":275,"rain_7d_mm":3.4}},
+    {"lat":49,"lon":19,"risk_score":0.31,"bucket":"Low","weather":{"temp_c":24.2,"humidity_pct":54,"wind_ms":2.1,"wind_dir":310,"rain_7d_mm":8.7}},
+    {"lat":-25,"lon":147,"risk_score":0.29,"bucket":"Low","weather":{"temp_c":21.6,"humidity_pct":48,"wind_ms":3.7,"wind_dir":150,"rain_7d_mm":12.1}},
+    {"lat":7,"lon":105,"risk_score":0.18,"bucket":"Low","weather":{"temp_c":27.1,"humidity_pct":82,"wind_ms":2.2,"wind_dir":204,"rain_7d_mm":48.7}}
+  ]
+}

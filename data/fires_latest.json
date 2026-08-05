@@ -1,0 +1,17 @@
+{
+  "metadata": {"updated_at": "2026-08-05T12:00:00Z", "source": "Representative demo data", "demo": true, "count": 12},
+  "fires": [
+    {"lat": 40.17, "lon": -121.44, "frp": 82.4, "confidence": "high", "acq_datetime": "2026-08-05T10:42:00Z", "satellite": "VIIRS", "daynight": "D"},
+    {"lat": 40.18, "lon": -121.45, "frp": 49.7, "confidence": "nominal", "acq_datetime": "2026-08-05T10:41:00Z", "satellite": "VIIRS", "daynight": "D"},
+    {"lat": 53.21, "lon": -116.08, "frp": 125.1, "confidence": "high", "acq_datetime": "2026-08-05T09:15:00Z", "satellite": "VIIRS", "daynight": "D"},
+    {"lat": 39.65, "lon": 23.17, "frp": 31.5, "confidence": "nominal", "acq_datetime": "2026-08-05T08:24:00Z", "satellite": "NOAA-20", "daynight": "D"},
+    {"lat": 38.74, "lon": 27.11, "frp": 63.2, "confidence": "high", "acq_datetime": "2026-08-05T08:18:00Z", "satellite": "VIIRS", "daynight": "D"},
+    {"lat": 37.52, "lon": -7.31, "frp": 27.9, "confidence": "nominal", "acq_datetime": "2026-08-05T07:57:00Z", "satellite": "VIIRS", "daynight": "D"},
+    {"lat": -15.44, "lon": 27.93, "frp": 41.6, "confidence": "high", "acq_datetime": "2026-08-05T06:12:00Z", "satellite": "MODIS", "daynight": "D"},
+    {"lat": -12.81, "lon": 132.67, "frp": 96.3, "confidence": "high", "acq_datetime": "2026-08-05T05:48:00Z", "satellite": "VIIRS", "daynight": "D"},
+    {"lat": 61.42, "lon": 128.34, "frp": 118.8, "confidence": "high", "acq_datetime": "2026-08-05T04:22:00Z", "satellite": "NOAA-20", "daynight": "D"},
+    {"lat": -13.17, "lon": -56.12, "frp": 54.1, "confidence": "nominal", "acq_datetime": "2026-08-05T03:39:00Z", "satellite": "VIIRS", "daynight": "D"},
+    {"lat": 36.71, "lon": -110.26, "frp": 19.4, "confidence": "nominal", "acq_datetime": "2026-08-05T02:16:00Z", "satellite": "MODIS", "daynight": "N"},
+    {"lat": -32.88, "lon": 120.43, "frp": 36.8, "confidence": "high", "acq_datetime": "2026-08-05T01:08:00Z", "satellite": "VIIRS", "daynight": "D"}
+  ]
+}

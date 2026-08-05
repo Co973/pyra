@@ -1,0 +1,25 @@
+{
+  "weights": {
+    "temperature": 0.25,
+    "humidity": 0.30,
+    "wind": 0.20,
+    "dryness": 0.25
+  },
+  "thresholds": {
+    "moderate": 0.35,
+    "high": 0.60,
+    "extreme": 0.80
+  },
+  "normalization": {
+    "temperature_min_c": 10,
+    "temperature_range_c": 30,
+    "humidity_ceiling_pct": 60,
+    "wind_ceiling_ms": 15,
+    "rain_suppression_mm": 20
+  },
+  "spread": {
+    "base_rate_kmh": 0.5,
+    "cone_half_angle_deg": 30,
+    "cluster_radius_km": 2
+  }
+}

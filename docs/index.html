@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Global wildfire activity, regional fire-weather risk, and illustrative wind-based spread estimates.">
+  <meta name="theme-color" content="#090d0c">
+  <title>Pyra — Global Wildfire Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIINfQ3ynhJb+YwA0szcE/XSjH+o7hqjG1w=" crossorigin="">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="Pyra home"><span class="brand-mark" aria-hidden="true">P</span><span>PYRA</span></a>
+      <div class="status"><span class="pulse"></span><span id="system-status">Loading global feed</span></div>
+      <button class="about-button" id="about-button" type="button">About this model</button>
+    </header>
+
+    <main>
+      <section class="hero-panel" aria-labelledby="page-title">
+        <div class="eyebrow">GLOBAL WILDFIRE INTELLIGENCE <span>•</span> NASA EARTH DATA</div>
+        <h1 id="page-title">See where fire is.<br><em>Understand where it could go.</em></h1>
+        <p>Near-real-time thermal detections, regional fire-weather risk, and transparent wind-based spread estimates—on one global map.</p>
+        <div class="metrics" aria-label="Current summary">
+          <div><strong id="fire-count">—</strong><span>ACTIVE DETECTIONS</span></div>
+          <div><strong id="high-risk-count">—</strong><span>HIGH-RISK REGIONS</span></div>
+          <div><strong id="confirmed-count">—</strong><span>CONFIRMED EVENTS</span></div>
+          <div><strong id="last-updated">—</strong><span>LAST DATA UPDATE</span></div>
+        </div>
+      </section>
+
+      <section class="map-section" aria-label="Interactive global wildfire map">
+        <div id="map"></div>
+        <div class="map-toolbar" aria-label="Map layers">
+          <span class="toolbar-title">LAYERS</span>
+          <button type="button" class="layer-chip active" data-layer="fires"><i class="dot fire-dot"></i>Active fires <b id="chip-fire-count">0</b></button>
+          <button type="button" class="layer-chip active" data-layer="risk"><i class="gradient-dot"></i>Risk grid</button>
+          <button type="button" class="layer-chip active" data-layer="spread"><i class="cone-dot"></i>Spread estimate</button>
+          <button type="button" class="layer-chip active" data-layer="eonet"><i class="confirmed-dot"></i>Confirmed</button>
+        </div>
+        <div class="map-controls-panel">
+          <label>REGION<select id="region-filter"><option value="global">Global view</option><option value="north-america">North America</option><option value="south-america">South America</option><option value="europe">Europe</option><option value="africa">Africa</option><option value="asia">Asia</option><option value="oceania">Oceania</option></select></label>
+          <label>DETECTION AGE<select id="age-filter"><option value="48">Last 48 hours</option><option value="24">Last 24 hours</option><option value="6">Last 6 hours</option><option value="all">All loaded</option></select></label>
+        </div>
+        <div class="map-legend">
+          <span>REGIONAL RISK</span>
+          <div class="legend-scale"></div>
+          <div class="legend-labels"><span>LOW</span><span>MODERATE</span><span>HIGH</span><span>EXTREME</span></div>
+        </div>
+        <div class="map-disclaimer">ILLUSTRATIVE ONLY — spread estimates use wind alone. Not an operational forecast.</div>
+      </section>
+
+      <section class="method-section" aria-labelledby="method-title">
+        <div class="section-heading"><span>HOW TO READ PYRA</span><h2 id="method-title">Signal, context, and uncertainty.</h2><p>Every layer answers a different question. None replaces official guidance.</p></div>
+        <div class="method-grid">
+          <article><span class="step">01</span><div class="method-icon fire-icon">●</div><h3>Active detections</h3><p>Satellite-observed thermal hotspots from NASA FIRMS, filtered for confidence and deduplicated across instruments.</p><small>OBSERVED • NEAR REAL TIME</small></article>
+          <article><span class="step">02</span><div class="method-icon risk-icon">▦</div><h3>Regional risk</h3><p>A transparent heuristic combining heat, humidity, wind, and trailing rainfall across a coarse global land grid.</p><small>MODELED • DAILY</small></article>
+          <article><span class="step">03</span><div class="method-icon spread-icon">△</div><h3>Spread estimate</h3><p>Directional growth cones based on local wind speed and direction, shown at 6- and 24-hour horizons.</p><small>ILLUSTRATIVE • WIND ONLY</small></article>
+        </div>
+      </section>
+
+      <section class="notice-section">
+        <div><span class="warning-icon">!</span><div><h2>Research interface, not an emergency tool.</h2><p>Pyra does not model terrain, vegetation, suppression, or local fire behavior. Grid cells are regional signals—not property-level forecasts. For emergencies, follow local fire authorities.</p></div></div>
+        <a href="https://www.gdacs.org/" target="_blank" rel="noreferrer">Find official emergency information ↗</a>
+      </section>
+    </main>
+
+    <footer><span>PYRA / GLOBAL WILDFIRE INTELLIGENCE</span><span>DATA: <a href="https://firms.modaps.eosdis.nasa.gov/" target="_blank" rel="noreferrer">NASA FIRMS</a> • <a href="https://power.larc.nasa.gov/" target="_blank" rel="noreferrer">NASA POWER</a> • <a href="https://eonet.gsfc.nasa.gov/" target="_blank" rel="noreferrer">NASA EONET</a></span><span>OPEN SOURCE • MIT</span></footer>
+  </div>
+
+  <dialog id="about-dialog">
+    <button class="dialog-close" id="dialog-close" aria-label="Close">×</button>
+    <span class="eyebrow">MODEL NOTES</span><h2>Transparent by design.</h2>
+    <p>The regional score combines temperature (25%), low humidity (30%), wind (20%), and seven-day dryness (25%). It is a starting heuristic, not a calibrated scientific fire-weather index.</p>
+    <p>The 6h and 24h cones use a generic base spread rate adjusted by wind. Terrain, fuel, moisture, suppression, and spotting are not represented.</p>
+    <p class="dialog-note">Use Pyra to explore global patterns—not to make safety decisions.</p>
+  </dialog>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="app.js"></script>
+</body>
+</html>
