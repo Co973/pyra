@@ -12,10 +12,12 @@ def main() -> None:
         if latest.get("type") != "Point" or len(coords) < 2:
             continue
         sources = event.get("sources") or []
+        source_url = sources[0].get("url") if sources else None
+        gdacs_url = next((source.get("url") for source in sources if "gdacs.org" in (source.get("url") or "").lower()), None)
         events.append({
             "id": event.get("id"), "title": event.get("title", "Confirmed wildfire"),
             "lat": coords[1], "lon": coords[0], "date": latest.get("date"),
-            "url": sources[0].get("url") if sources else None,
+            "url": source_url, "gdacs_url": gdacs_url,
         })
     atomic_json(DATA / "eonet_latest.json", {"metadata": {"updated_at": utc_now(), "source": "NASA EONET", "demo": False}, "events": events})
 

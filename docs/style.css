@@ -103,6 +103,8 @@ body { margin: 0; background: var(--bg); color: var(--ink); font-family: Manrope
 .leaflet-popup-content { margin: 14px; font-size: 12px; }
 .popup-title { font-weight: 700; margin-bottom: 6px; }
 .popup-meta { font: 10px DM Mono; color: #9da79f; line-height: 1.6; }
+.popup-action { display: inline-block; margin-top: 10px; padding: 7px 9px; border: 1px solid #d6ff43; color: #d6ff43; text-decoration: none; font: 700 9px DM Mono; letter-spacing: .04em; text-transform: uppercase; }
+.popup-action:hover { background: #d6ff43; color: #101513; }
 
 .method-section { padding: 110px 6vw; }
 .section-heading { display: grid; grid-template-columns: 1fr 1.3fr 1fr; gap: 40px; align-items: end; margin-bottom: 58px; }
