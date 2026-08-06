@@ -5,6 +5,9 @@ import math
 
 from common import CONFIG, DATA, atomic_json, read_json, utc_now
 
+MAX_SPREAD_INPUTS = 5000
+MAX_PROJECTIONS = 250
+
 
 def distance_km(a: dict, b: dict) -> float:
     dy = (a["lat"] - b["lat"]) * 111.0
@@ -33,13 +36,13 @@ def main() -> None:
     fires = read_json(DATA / "fires_latest.json", {"fires": []}).get("fires", [])
     weather = list(read_json(DATA / "power_grid_latest.json", {"cells": {}}).get("cells", {}).values())
     settings = read_json(CONFIG / "risk_weights.json")["spread"]
-    clusters: list[list[dict]] = []
+    fires = sorted(fires, key=lambda fire: float(fire.get("frp") or 0), reverse=True)[:MAX_SPREAD_INPUTS]
+    clusters_by_cell: dict[tuple[int, int], list[dict]] = {}
+    cell_size = max(0.05, settings["cluster_radius_km"] / 111.0)
     for fire in fires:
-        match = next((cluster for cluster in clusters if distance_km(fire, cluster[0]) <= settings["cluster_radius_km"]), None)
-        if match is None:
-            clusters.append([fire])
-        else:
-            match.append(fire)
+        key = (round(fire["lat"] / cell_size), round(fire["lon"] / cell_size))
+        clusters_by_cell.setdefault(key, []).append(fire)
+    clusters = sorted(clusters_by_cell.values(), key=len, reverse=True)[:MAX_PROJECTIONS]
     projections = []
     for index, cluster in enumerate(clusters):
         lat = sum(f["lat"] for f in cluster) / len(cluster)

@@ -6,7 +6,7 @@ on:
     inputs:
       batch_size:
         description: POWER grid points to refresh
-        default: '250'
+        default: '75'
         required: false
       batch_index:
         description: Zero-based batch index
@@ -32,7 +32,7 @@ jobs:
         run: python scripts/land_mask.py
       - name: Refresh weather and derived layers
         env:
-          POWER_BATCH_SIZE: ${{ inputs.batch_size || '250' }}
+          POWER_BATCH_SIZE: ${{ inputs.batch_size || '75' }}
           POWER_BATCH_INDEX: ${{ inputs.batch_index || github.run_number }}
         run: |
           python scripts/fetch_power_grid.py

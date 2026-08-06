@@ -211,14 +211,22 @@ function setMetrics() {
   const fires = state.data.fires.fires || [];
   const cells = state.data.risk.cells || [];
   const events = state.data.eonet.events || [];
+  const liveFires = !state.data.fires.metadata.demo;
+  const liveRisk = !state.data.risk.metadata.demo;
+  const liveSpread = !state.data.spread.metadata.demo;
   document.querySelector('#fire-count').textContent = fires.length.toLocaleString();
-  document.querySelector('#high-risk-count').textContent = cells.filter(c => c.risk_score >= 0.6).length.toLocaleString();
+  document.querySelector('#high-risk-count').textContent = liveRisk ? cells.filter(c => c.risk_score >= 0.6).length.toLocaleString() : 'PENDING';
   document.querySelector('#confirmed-count').textContent = events.length.toLocaleString();
-  const dates = [state.data.fires.metadata.updated_at, state.data.risk.metadata.updated_at].filter(Boolean).map(v => new Date(v));
+  const dates = [state.data.fires, state.data.risk, state.data.spread, state.data.eonet]
+    .filter(d => d?.metadata?.updated_at && !d.metadata.demo)
+    .map(d => new Date(d.metadata.updated_at));
   const latest = new Date(Math.max(...dates));
-  const demo = [state.data.fires, state.data.risk].some(d => d.metadata.demo);
-  document.querySelector('#last-updated').textContent = demo ? 'DEMO' : formatAge(latest);
-  document.querySelector('#system-status').textContent = demo ? 'Demo dataset loaded' : 'Global feed online';
+  document.querySelector('#last-updated').textContent = dates.length ? formatAge(latest) : 'DEMO';
+  document.querySelector('#system-status').textContent = liveFires && liveRisk && liveSpread
+    ? 'Global feed online'
+    : liveFires
+      ? 'Live fires online; risk updating'
+      : 'Demo dataset loaded';
 }
 
 function scheduleFireRender() {
