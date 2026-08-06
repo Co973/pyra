@@ -60,6 +60,10 @@ function popupFire(f) {
   return `<div class="popup-title">Thermal detection</div><div class="popup-meta">FRP ${Number(f.frp || 0).toFixed(1)} MW<br>${f.satellite} - ${f.confidence} confidence<br>${new Date(f.acq_datetime).toLocaleString()}</div><a class="popup-action" href="${GDACS_FIRE_MAP_URL}" target="_blank" rel="noreferrer">Open GDACS reports</a>`;
 }
 
+function openReport(url = GDACS_FIRE_MAP_URL) {
+  window.open(url, '_blank', 'noopener,noreferrer');
+}
+
 function fireAgeHours(f, referenceTime) {
   return (referenceTime - new Date(f.acq_datetime).getTime()) / 36e5;
 }
@@ -131,7 +135,7 @@ function renderFires() {
           iconSize: [size, size],
           iconAnchor: [size / 2, size / 2],
         }),
-      }).bindPopup(popupFireBin(bin));
+      }).bindTooltip('Open GDACS reports').on('click', () => openReport());
     }));
   } else {
     const fires = sampledFires(filtered);
@@ -144,7 +148,7 @@ function renderFires() {
       weight: 0.8,
       fillColor: fireColor(Number(f.frp || 0)),
       fillOpacity: 0.82,
-    }).bindPopup(popupFire(f))));
+    }).bindTooltip('Open GDACS reports').on('click', () => openReport())));
   }
 
   if (state.enabled.fires) state.layers.fires.addTo(map);
@@ -205,7 +209,7 @@ function renderEonet() {
     weight: 2,
     fillColor: '#ffffff',
     fillOpacity: 0.92,
-  }).bindPopup(`<div class="popup-title">${e.title}</div><div class="popup-meta">NASA EONET confirmed event<br>${e.date ? new Date(e.date).toLocaleDateString() : ''}${e.url ? `<br><a href="${e.url}" target="_blank" rel="noreferrer">Source</a>` : ''}</div><a class="popup-action" href="${reportLink(e)}" target="_blank" rel="noreferrer">${e.gdacs_url ? 'Open GDACS report' : 'Open GDACS reports'}</a>`)));
+  }).bindTooltip(e.gdacs_url ? 'Open GDACS report' : 'Open GDACS reports').on('click', () => openReport(reportLink(e)))));
   if (state.enabled.eonet) state.layers.eonet.addTo(map);
 }
 
