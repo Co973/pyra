@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-08-06T11:34:23Z",
+    "updated_at": "2026-08-06T14:36:59Z",
     "source": "NASA EONET",
     "demo": false
   },
@@ -827,8 +827,8 @@
     {
       "id": "EONET_21403",
       "title": "Wildfire Big Gulch, Moffat, Colorado",
-      "lat": 40.681667,
-      "lon": -107.671833,
+      "lat": 40.672488,
+      "lon": -107.66866,
       "date": "2026-07-19T21:36:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-COMFX-000934",
       "gdacs_url": null
