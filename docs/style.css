@@ -80,6 +80,8 @@ body { margin: 0; background: var(--bg); color: var(--ink); font-family: Manrope
 .layer-chip:not(.active) { opacity: .45; }
 .layer-chip i { width: 8px; height: 8px; border-radius: 50%; }
 .layer-chip b { font-weight: 400; color: #8f391e; }
+.gdacs-link { display: flex; align-items: center; padding: 8px 10px; background: #d6ff43; color: #101513; text-decoration: none; font: 700 10px DM Mono; letter-spacing: .04em; text-transform: uppercase; white-space: nowrap; }
+.gdacs-link:hover { background: #f7b32b; }
 .fire-dot { background: var(--fire); box-shadow: 0 0 8px var(--fire); }
 .gradient-dot { background: linear-gradient(135deg,#4f9c57,#c9261c); }
 .cone-dot { border: 1px solid var(--acid); background: transparent; }

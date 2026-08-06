@@ -1,5 +1,5 @@
 const DATA_BASE = './data/';
-const GDACS_FIRE_MAP_URL = 'https://www.gdacs.org/default.aspx';
+const GDACS_FIRE_MAP_URL = 'https://www.gdacs.org/';
 const MAX_FIRE_MARKERS = 1800;
 const MAX_EONET_MARKERS = 120;
 const DETAIL_ZOOM = 6;
@@ -57,7 +57,7 @@ const fetchJSON = async name => {
 };
 
 function popupFire(f) {
-  return `<div class="popup-title">Thermal detection</div><div class="popup-meta">FRP ${Number(f.frp || 0).toFixed(1)} MW<br>${f.satellite} - ${f.confidence} confidence<br>${new Date(f.acq_datetime).toLocaleString()}</div><a class="popup-action" href="${GDACS_FIRE_MAP_URL}" target="_blank" rel="noreferrer">Open GDACS fire map</a>`;
+  return `<div class="popup-title">Thermal detection</div><div class="popup-meta">FRP ${Number(f.frp || 0).toFixed(1)} MW<br>${f.satellite} - ${f.confidence} confidence<br>${new Date(f.acq_datetime).toLocaleString()}</div><a class="popup-action" href="${GDACS_FIRE_MAP_URL}" target="_blank" rel="noreferrer">Open GDACS reports</a>`;
 }
 
 function fireAgeHours(f, referenceTime) {
@@ -105,7 +105,7 @@ function aggregateFires(fires) {
 }
 
 function popupFireBin(bin) {
-  return `<div class="popup-title">Fire activity cluster</div><div class="popup-meta">${bin.count.toLocaleString()} detections nearby<br>Max FRP ${bin.maxFrp.toFixed(1)} MW<br>Latest ${new Date(bin.latest).toLocaleString()}</div><a class="popup-action" href="${GDACS_FIRE_MAP_URL}" target="_blank" rel="noreferrer">Open GDACS fire map</a>`;
+  return `<div class="popup-title">Fire activity cluster</div><div class="popup-meta">${bin.count.toLocaleString()} detections nearby<br>Max FRP ${bin.maxFrp.toFixed(1)} MW<br>Latest ${new Date(bin.latest).toLocaleString()}</div><a class="popup-action" href="${GDACS_FIRE_MAP_URL}" target="_blank" rel="noreferrer">Open GDACS reports</a>`;
 }
 
 function renderFires() {
@@ -205,7 +205,7 @@ function renderEonet() {
     weight: 2,
     fillColor: '#ffffff',
     fillOpacity: 0.92,
-  }).bindPopup(`<div class="popup-title">${e.title}</div><div class="popup-meta">NASA EONET confirmed event<br>${e.date ? new Date(e.date).toLocaleDateString() : ''}${e.url ? `<br><a href="${e.url}" target="_blank" rel="noreferrer">Source</a>` : ''}</div><a class="popup-action" href="${reportLink(e)}" target="_blank" rel="noreferrer">${e.gdacs_url ? 'Open GDACS report' : 'Open GDACS fire map'}</a>`)));
+  }).bindPopup(`<div class="popup-title">${e.title}</div><div class="popup-meta">NASA EONET confirmed event<br>${e.date ? new Date(e.date).toLocaleDateString() : ''}${e.url ? `<br><a href="${e.url}" target="_blank" rel="noreferrer">Source</a>` : ''}</div><a class="popup-action" href="${reportLink(e)}" target="_blank" rel="noreferrer">${e.gdacs_url ? 'Open GDACS report' : 'Open GDACS reports'}</a>`)));
   if (state.enabled.eonet) state.layers.eonet.addTo(map);
 }
 
