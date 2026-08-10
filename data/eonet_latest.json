@@ -1,10 +1,172 @@
 {
   "metadata": {
-    "updated_at": "2026-08-10T19:19:20Z",
+    "updated_at": "2026-08-10T22:00:27Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_22430",
+      "title": "Wildfire Harris, Rosebud, Montana",
+      "lat": 45.195183,
+      "lon": -106.634317,
+      "date": "2026-08-09T16:55:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MTMCD-000676",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22424",
+      "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+      "lat": 42.636437,
+      "lon": -108.607547,
+      "date": "2026-08-09T16:32:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WYWBD-000294",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22428",
+      "title": "Wildfire Brown, Oldham, Texas",
+      "lat": 35.3735,
+      "lon": -102.989,
+      "date": "2026-08-09T14:21:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-266753",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22427",
+      "title": "Wildfire Fred Mt, Washoe, Nevada",
+      "lat": 39.762667,
+      "lon": -119.8492,
+      "date": "2026-08-09T13:39:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-NVTMFX-030694",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22431",
+      "title": "Wildfire Timber, Monterey, California",
+      "lat": 36.215894,
+      "lon": -121.717508,
+      "date": "2026-08-09T00:36:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-CALPF-002271",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22434",
+      "title": "Wildfire PALOUSE RIVER, Whitman, Washington",
+      "lat": 46.870892,
+      "lon": -117.307978,
+      "date": "2026-08-08T20:58:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WAWFS-001934",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22432",
+      "title": "Wildfire Bug, Lassen, California",
+      "lat": 39.727883,
+      "lon": -120.038117,
+      "date": "2026-08-08T18:49:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-NVCCD-030683",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22436",
+      "title": "Wildfire WELLS ROAD, Whitman, Washington",
+      "lat": 47.24,
+      "lon": -117.51,
+      "date": "2026-08-08T18:36:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WAWFS-001933",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22426",
+      "title": "Wildfire NUNAMAKER ROAD, Franklin, Washington",
+      "lat": 46.5942,
+      "lon": -118.4075,
+      "date": "2026-08-08T14:16:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WASPD-260605",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22425",
+      "title": "Wildfire LITTLE GOOSE, Columbia, Washington",
+      "lat": 46.536,
+      "lon": -118.09,
+      "date": "2026-08-07T21:01:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WAWFS-001924",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22433",
+      "title": "Wildfire MP18, Humboldt, California",
+      "lat": 41.1330556,
+      "lon": -123.685,
+      "date": "2026-08-07T19:52:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-CAHVT-000753",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22446",
+      "title": "Wildfire Rocky Canyon, Morgan, Utah",
+      "lat": 40.939517,
+      "lon": -111.642133,
+      "date": "2026-08-07T18:30:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-UTNWS-200580",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22442",
+      "title": "Wildfire RIDGE, Los Angeles, California",
+      "lat": 34.79108,
+      "lon": -118.82999,
+      "date": "2026-08-07T17:44:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-CALAC-278844",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22449",
+      "title": "Wildfire MM115 HWY 20, Elmore, Idaho",
+      "lat": 43.302,
+      "lon": -115.447144,
+      "date": "2026-08-07T17:42:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-IDSWS-000901",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22454",
+      "title": "Wildfire Montgomery Draw, Campbell, Wyoming",
+      "lat": 44.366767,
+      "lon": -105.8556,
+      "date": "2026-08-06T19:19:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WYCMX-000389",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22445",
+      "title": "Wildfire COTTONWOOD, Grant, Oregon",
+      "lat": 44.628133,
+      "lon": -119.380383,
+      "date": "2026-08-06T18:41:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-OR952S-026181",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22444",
+      "title": "Wildfire 310, Garfield, Colorado",
+      "lat": 39.44445,
+      "lon": -107.983983,
+      "date": "2026-08-06T15:40:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-COGFX-260411",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22447",
+      "title": "Wildfire B.B, Osage, Oklahoma",
+      "lat": 36.907919,
+      "lon": -96.461093,
+      "date": "2026-08-06T12:56:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-OKOSA-002275",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_22196",
       "title": "Wildfire Wrights Spring, Klamath, Oregon",
@@ -21,6 +183,15 @@
       "lon": -118.9227778,
       "date": "2026-08-05T11:08:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-CAKRN-032905",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22429",
+      "title": "Wildfire Frijoles, Santa Fe, New Mexico",
+      "lat": 35.908667,
+      "lon": -105.848167,
+      "date": "2026-08-05T10:05:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-NMSNF-000444",
       "gdacs_url": null
     },
     {
@@ -93,6 +264,15 @@
       "lon": -112.304918,
       "date": "2026-08-01T21:07:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-UTBRS-200554",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22443",
+      "title": "Wildfire Black Bear, Ravalli, Montana",
+      "lat": 46.167967,
+      "lon": -113.8895,
+      "date": "2026-08-01T20:58:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MTBRF-000282",
       "gdacs_url": null
     },
     {
@@ -255,6 +435,15 @@
       "lon": -81.6666667,
       "date": "2026-07-30T00:14:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-GAGAS-042702",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22448",
+      "title": "Wildfire Lake Channel, Power, Idaho",
+      "lat": 42.665061,
+      "lon": -113.020005,
+      "date": "2026-07-29T21:36:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-IDTFD-000999",
       "gdacs_url": null
     },
     {
@@ -660,6 +849,15 @@
       "lon": -117.212967,
       "date": "2026-07-23T23:32:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-ORVAD-260204",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22441",
+      "title": "Wildfire HIGH LAVA, Skamania, Washington",
+      "lat": 45.8805,
+      "lon": -122.116167,
+      "date": "2026-07-23T23:02:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WAGPF-000684",
       "gdacs_url": null
     },
     {
@@ -1605,204 +1803,6 @@
       "lon": -96.01343333,
       "date": "2026-07-09T10:39:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2025-MNMNS-RX259077",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21317",
-      "title": "Wildfire Hogatza, Yukon-Koyukuk, Alaska",
-      "lat": 66.664667,
-      "lon": -153.849167,
-      "date": "2026-07-08T22:46:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-AKTAD-000392",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21243",
-      "title": "Wildfire RYEGRASS COULEE, Kittitas, Washington",
-      "lat": 46.949083,
-      "lon": -120.0208,
-      "date": "2026-07-08T20:13:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WASES-260359",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21231",
-      "title": "Wildfire Getaway Pens, Dickens, Texas",
-      "lat": 33.44265,
-      "lon": -100.6149183,
-      "date": "2026-07-08T18:12:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-265848",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21241",
-      "title": "Wildfire VAN, Mariposa, California",
-      "lat": 37.327638,
-      "lon": -120.061317,
-      "date": "2026-07-08T16:53:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CAMMU-013885",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21321",
-      "title": "Wildfire Anthony, Baker, Oregon",
-      "lat": 44.991867,
-      "lon": -118.200333,
-      "date": "2026-07-08T16:37:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORWWF-000227",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21326",
-      "title": "Wildfire Olive Butte, Grant, Oregon",
-      "lat": 44.745217,
-      "lon": -118.452867,
-      "date": "2026-07-08T14:17:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORWWF-000224",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21430",
-      "title": "Wildfire Upper Smith, Boundary, Idaho",
-      "lat": 48.9275,
-      "lon": -116.607783,
-      "date": "2026-07-08T14:11:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-IDIPF-000347",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21240",
-      "title": "Wildfire WHISKEY, Malheur, Oregon",
-      "lat": 43.35394,
-      "lon": -118.18178,
-      "date": "2026-07-08T12:32:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORVAD-260145",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21250",
-      "title": "Prescribed Fire RX Artichoke Lake, Swift, Minnesota",
-      "lat": 45.3332,
-      "lon": -96.0976,
-      "date": "2026-07-08T10:24:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2025-MNMNS-RX259023",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21251",
-      "title": "Prescribed Fire Meadow Creek WMA RX, Lyon, Minnesota",
-      "lat": 44.3772,
-      "lon": -95.71371667,
-      "date": "2026-07-08T09:41:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-MNMNS-RX259013",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21236",
-      "title": "Wildfire Salmon, Grant, Oregon",
-      "lat": 44.717021,
-      "lon": -118.510204,
-      "date": "2026-07-08T05:53:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORUMF-000222",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21330",
-      "title": "Wildfire Thumb, St. Louis, Minnesota",
-      "lat": 48.287667,
-      "lon": -92.192167,
-      "date": "2026-07-07T18:38:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-MNSUF-002396",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21384",
-      "title": "Wildfire Bear Trap, St. Louis, Minnesota",
-      "lat": 48.1845,
-      "lon": -91.924667,
-      "date": "2026-07-07T18:28:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-MNSUF-002394",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21381",
-      "title": "Wildfire Camp, Lake, Minnesota",
-      "lat": 47.998967,
-      "lon": -91.782917,
-      "date": "2026-07-07T18:11:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-MNSUF-002393",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21245",
-      "title": "Wildfire 3-1 PIT, Lassen, California",
-      "lat": 40.948833,
-      "lon": -121.2685,
-      "date": "2026-07-07T16:35:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CALMU-004201",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21242",
-      "title": "Wildfire Hoop, Harney, Oregon",
-      "lat": 42.637717,
-      "lon": -118.752133,
-      "date": "2026-07-07T16:26:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORBUD-002650",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21234",
-      "title": "Wildfire Avocado, Monroe, Florida",
-      "lat": 25.423833,
-      "lon": -80.928833,
-      "date": "2026-07-07T16:20:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-FLEVP-002146",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21248",
-      "title": "Wildfire Mustang, Yukon-Koyukuk, Alaska",
-      "lat": 65.78555,
-      "lon": -154.11445,
-      "date": "2026-07-06T18:47:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-AKTAD-000368",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21021",
-      "title": "Wildfire RA 6 ADA CO CLAREMONT, Ada, Idaho",
-      "lat": 43.6347,
-      "lon": -116.175933,
-      "date": "2026-07-06T16:15:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ID1AX-000618",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21007",
-      "title": "Wildfire Dutch Flat, Humboldt, Nevada",
-      "lat": 41.078633,
-      "lon": -117.614017,
-      "date": "2026-07-05T19:33:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-NVHUMX-020340",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21010",
-      "title": "Wildfire NAVARRE COULEE, Chelan, Washington",
-      "lat": 47.773244,
-      "lon": -120.185178,
-      "date": "2026-07-05T02:01:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WASES-260329",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21005",
-      "title": "Wildfire North Cayuse, Umatilla, Oregon",
-      "lat": 45.683083,
-      "lon": -118.480617,
-      "date": "2026-07-04T18:37:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-OR973S-000206",
       "gdacs_url": null
     }
   ]
