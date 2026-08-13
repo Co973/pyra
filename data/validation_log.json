@@ -1,7 +1,30 @@
 {
   "metadata": {
-    "updated_at": "2026-08-12T07:57:51Z",
+    "updated_at": "2026-08-13T07:59:44Z",
     "method": "7-day forward detection by 2-degree cell"
   },
-  "runs": []
+  "runs": [
+    {
+      "snapshot_date": "2026-08-06",
+      "evaluated_at": "2026-08-13T07:59:44Z",
+      "by_bucket": {
+        "Low": {
+          "cells": 139,
+          "with_fire": 30
+        },
+        "Moderate": {
+          "cells": 11,
+          "with_fire": 0
+        },
+        "High": {
+          "cells": 0,
+          "with_fire": 0
+        },
+        "Extreme": {
+          "cells": 0,
+          "with_fire": 0
+        }
+      }
+    }
+  ]
 }
