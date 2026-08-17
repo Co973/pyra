@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-08-17T15:43:33Z",
+    "updated_at": "2026-08-17T19:00:19Z",
     "source": "NASA EONET",
     "demo": false
   },
@@ -233,8 +233,8 @@
     {
       "id": "EONET_22449",
       "title": "Wildfire MM115 HWY 20, Elmore, Idaho",
-      "lat": 43.302,
-      "lon": -115.447144,
+      "lat": 43.30195,
+      "lon": -115.447008,
       "date": "2026-08-07T17:42:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-IDSWS-000901",
       "gdacs_url": null
