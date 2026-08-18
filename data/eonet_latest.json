@@ -1,10 +1,82 @@
 {
   "metadata": {
-    "updated_at": "2026-08-17T19:00:19Z",
+    "updated_at": "2026-08-18T01:53:39Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_22798",
+      "title": "Wildfire Picture Rock, Lake, Oregon",
+      "lat": 43.00919,
+      "lon": -120.774487,
+      "date": "2026-08-16T15:55:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-ORLAD-260313",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22800",
+      "title": "Wildfire CATO 2, Chaves, New Mexico",
+      "lat": 33.50765,
+      "lon": -103.9452,
+      "date": "2026-08-15T23:18:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-NMROD-000632",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22791",
+      "title": "Wildfire THE H1, Palm Beach, Florida",
+      "lat": 26.3688889,
+      "lon": -80.7516667,
+      "date": "2026-08-15T22:19:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-FLFLS-1800136",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22799",
+      "title": "Wildfire THE RADIO TOWER, Miami-Dade, Florida",
+      "lat": 25.7111111,
+      "lon": -80.4744444,
+      "date": "2026-08-15T22:06:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-FLFLS-1800132",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22795",
+      "title": "Wildfire Shoshone, Churchill, Nevada",
+      "lat": 39.82989,
+      "lon": -117.67618,
+      "date": "2026-08-15T17:48:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-NVCCD-030721",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22790",
+      "title": "Wildfire Burnt Canyon, Woodward, Oklahoma",
+      "lat": 36.5955556,
+      "lon": -99.2663889,
+      "date": "2026-08-15T16:00:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-OKOKS-260858",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22801",
+      "title": "Wildfire Snake Mountain, Pushmataha, Oklahoma",
+      "lat": 34.4830556,
+      "lon": -95.1797222,
+      "date": "2026-08-14T10:05:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-OKOKS-260835",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22796",
+      "title": "Wildfire Fielder Mtn, Jackson, Oregon",
+      "lat": 42.4217473,
+      "lon": -123.2067743,
+      "date": "2026-08-13T18:23:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-OR712S-030327",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_22614",
       "title": "Wildfire PLAINS, San Luis Obispo, California",
@@ -12,6 +84,15 @@
       "lon": -120.001456,
       "date": "2026-08-12T15:36:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-CASLU-012768",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_22802",
+      "title": "Wildfire Austin Non-Stat, Clackamas, Oregon",
+      "lat": 45.02547389,
+      "lon": -121.9549232,
+      "date": "2026-08-12T14:19:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-OR581S-000041",
       "gdacs_url": null
     },
     {
@@ -228,15 +309,6 @@
       "lon": -118.82999,
       "date": "2026-08-07T17:44:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-CALAC-278844",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22449",
-      "title": "Wildfire MM115 HWY 20, Elmore, Idaho",
-      "lat": 43.30195,
-      "lon": -115.447008,
-      "date": "2026-08-07T17:42:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-IDSWS-000901",
       "gdacs_url": null
     },
     {
@@ -1731,78 +1803,6 @@
       "lon": -114.267333,
       "date": "2026-07-12T21:45:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-NVEKD-010270",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21318",
-      "title": "Wildfire Heavy Timber, Musselshell, Montana",
-      "lat": 46.44166,
-      "lon": -108.146,
-      "date": "2026-07-12T21:00:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-MTLG23-260727",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21328",
-      "title": "Wildfire Cow Canyon, Oneida, Idaho",
-      "lat": 42.11216,
-      "lon": -112.947187,
-      "date": "2026-07-12T16:15:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-IDIFD-000128",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21332",
-      "title": "Wildfire ELEPHANT, Plumas, California",
-      "lat": 39.710833,
-      "lon": -120.193167,
-      "date": "2026-07-11T16:35:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CATNF-001154",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21329",
-      "title": "Wildfire LOOMIS, Lassen, California",
-      "lat": 40.965833,
-      "lon": -121.154667,
-      "date": "2026-07-11T15:03:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CALMU-004291",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21336",
-      "title": "Wildfire NINE CANYON, Benton, Washington",
-      "lat": 46.122786,
-      "lon": -119.04432,
-      "date": "2026-07-11T14:41:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WABENN-260375",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21331",
-      "title": "Wildfire Stookey, Tooele, Utah",
-      "lat": 40.1499,
-      "lon": -112.560267,
-      "date": "2026-07-10T19:51:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-UTWDD-200417",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21325",
-      "title": "Wildfire E Evans Creek Rd 18000, Jackson, Oregon",
-      "lat": 42.60395,
-      "lon": -123.0018333,
-      "date": "2026-07-10T18:13:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-OR711S-000039",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21333",
-      "title": "Wildfire SUMMIT, Los Angeles, California",
-      "lat": 34.45499,
-      "lon": -117.68601,
-      "date": "2026-07-10T15:49:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CALAC-240823",
       "gdacs_url": null
     }
   ]
