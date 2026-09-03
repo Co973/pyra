@@ -1,10 +1,37 @@
 {
   "metadata": {
-    "updated_at": "2026-09-03T21:10:21Z",
+    "updated_at": "2026-09-03T23:23:48Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_23868",
+      "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+      "lat": 41.517567,
+      "lon": -117.74215,
+      "date": "2026-09-03T13:03:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-NVWID-020663",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_23869",
+      "title": "Wildfire Ayers Pond, Prairie, Montana",
+      "lat": 46.65069,
+      "lon": -104.83045,
+      "date": "2026-09-03T01:45:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MTMCD-000777",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_23870",
+      "title": "Wildfire Snow, Custer, Montana",
+      "lat": 46.48575,
+      "lon": -105.185017,
+      "date": "2026-09-02T22:16:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MTLG14-000775",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_23656",
       "title": "Wildfire Ruggs, Morrow, Oregon",
@@ -39,6 +66,15 @@
       "lon": -95.2966667,
       "date": "2026-08-30T09:04:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-OKOKSC-260966",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_23871",
+      "title": "Wildfire Alexander Trail, Pushmataha, Oklahoma",
+      "lat": 34.4777778,
+      "lon": -95.2966667,
+      "date": "2026-08-30T09:04:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-OKOKS-260966",
       "gdacs_url": null
     },
     {
@@ -1767,42 +1803,6 @@
       "lon": -118.803383,
       "date": "2026-07-23T05:04:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-ORBUD-002680",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21825",
-      "title": "Wildfire Castle, Douglas, Oregon",
-      "lat": 43.114033,
-      "lon": -122.563283,
-      "date": "2026-07-23T00:22:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORUPF-260297",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21577",
-      "title": "Wildfire Gypsum Creek, King, Texas",
-      "lat": 33.46780108,
-      "lon": -100.0410599,
-      "date": "2026-07-22T19:04:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-266131",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21575",
-      "title": "Wildfire West Blue Crab, Cameron, Louisiana",
-      "lat": 29.880643,
-      "lon": -93.42765,
-      "date": "2026-07-22T19:02:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-LASBR-000235",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21587",
-      "title": "Incident Complex COW CAMP COMPLEX, Malheur, Oregon",
-      "lat": 44.334159,
-      "lon": -117.561983,
-      "date": "2026-07-21T21:41:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORVAD-260194",
       "gdacs_url": null
     }
   ]
