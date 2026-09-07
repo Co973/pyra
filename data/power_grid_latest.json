@@ -1,11 +1,312 @@
 {
   "metadata": {
-    "updated_at": "2026-09-05T10:50:33Z",
+    "updated_at": "2026-09-07T12:52:38Z",
     "source": "NASA POWER",
-    "batch_index": 34,
+    "batch_index": 36,
     "batch_size": 75,
     "total_cached": 2100,
-    "failures": []
+    "failures": [
+      {
+        "cell": "+13_-115",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-113",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-111",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-109",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-107",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-105",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-103",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-101",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-099",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-097",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-095",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-093",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-091",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-089",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-087",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-085",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-083",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-081",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-079",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-077",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-075",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-073",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-071",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-069",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-067",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-065",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-063",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-061",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-059",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-057",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-055",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-053",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-051",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-049",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-047",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-045",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-043",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-041",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-039",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-037",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-035",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-017",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-015",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-013",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-011",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-009",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-007",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-005",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-003",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_-001",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+001",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+003",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+005",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+007",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+009",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+011",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+013",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+015",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+017",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+019",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+021",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+023",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+025",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+027",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+029",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+031",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+033",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+035",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+037",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+039",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+041",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+043",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+045",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+047",
+        "error": "missing weather values"
+      },
+      {
+        "cell": "+13_+049",
+        "error": "missing weather values"
+      }
+    ]
   },
   "cells": {
     "-55_-081": {
