@@ -1,10 +1,37 @@
 {
   "metadata": {
-    "updated_at": "2026-09-08T04:47:05Z",
+    "updated_at": "2026-09-08T16:47:18Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_24100",
+      "title": "Wildfire S7, Broward, Florida",
+      "lat": 26.3258333,
+      "lon": -80.4997222,
+      "date": "2026-09-04T15:16:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-FLFLS-1800147",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24096",
+      "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+      "lat": 43.30421421,
+      "lon": -102.311123,
+      "date": "2026-09-04T13:53:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-SDPRA-000151",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24095",
+      "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+      "lat": 46.586036,
+      "lon": -104.927967,
+      "date": "2026-09-04T12:59:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MTEAS-000786",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_23868",
       "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
@@ -30,6 +57,15 @@
       "lon": -105.185017,
       "date": "2026-09-02T22:16:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-MTLG14-000775",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24098",
+      "title": "Wildfire Fowl, Harding, New Mexico",
+      "lat": 35.5693,
+      "lon": -103.7858,
+      "date": "2026-09-02T18:39:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-NMN4S-000562",
       "gdacs_url": null
     },
     {
@@ -246,15 +282,6 @@
       "lon": -115.036467,
       "date": "2026-08-24T17:28:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-NVEKD-010519",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_23457",
-      "title": "Wildfire S-1 VYA, Washoe, Nevada",
-      "lat": 41.630333,
-      "lon": -119.916,
-      "date": "2026-08-24T17:03:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CANOD-005304",
       "gdacs_url": null
     },
     {
@@ -1776,33 +1803,6 @@
       "lon": -121.014327,
       "date": "2026-07-23T11:55:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-ORPRD-000579",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21576",
-      "title": "Wildfire RAILROAD, Grant, Washington",
-      "lat": 46.839052,
-      "lon": -119.939349,
-      "date": "2026-07-23T10:05:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WAWFS-260500",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22130",
-      "title": "Wildfire RAILROAD, Grant, Washington",
-      "lat": 46.839052,
-      "lon": -119.939349,
-      "date": "2026-07-23T10:05:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WASPD-260500",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21838",
-      "title": "Wildfire Crater, Harney, Oregon",
-      "lat": 43.11995,
-      "lon": -118.803383,
-      "date": "2026-07-23T05:04:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORBUD-002680",
       "gdacs_url": null
     }
   ]
