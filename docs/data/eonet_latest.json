@@ -1,10 +1,46 @@
 {
   "metadata": {
-    "updated_at": "2026-09-10T11:30:12Z",
+    "updated_at": "2026-09-10T16:33:12Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_24189",
+      "title": "Wildfire MEERS, Comanche, Oklahoma",
+      "lat": 34.840579,
+      "lon": -98.67792,
+      "date": "2026-09-08T16:57:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-OKANA-002798",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24185",
+      "title": "Wildfire Kurk, San Saba, Texas",
+      "lat": 31.060181,
+      "lon": -98.653084,
+      "date": "2026-09-08T16:39:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-268233",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24192",
+      "title": "Wildfire PINTO, Stephens, Oklahoma",
+      "lat": 34.413611,
+      "lon": -97.5925,
+      "date": "2026-09-08T12:44:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-OKCHA-002788",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24187",
+      "title": "Wildfire Moonshine, Albany, Wyoming",
+      "lat": 41.95365,
+      "lon": -105.321617,
+      "date": "2026-09-07T19:58:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WYHDD-000478",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_24100",
       "title": "Wildfire S7, Broward, Florida",
@@ -1767,42 +1803,6 @@
       "lon": -119.8976,
       "date": "2026-07-23T16:58:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-OR953S-000587",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21834",
-      "title": "Wildfire FIELDS, Merced, California",
-      "lat": 37.528023,
-      "lon": -120.429683,
-      "date": "2026-07-23T16:53:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CAMMU-015106",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21827",
-      "title": "Wildfire BIG GRASS, Malheur, Oregon",
-      "lat": 42.6498,
-      "lon": -117.30335,
-      "date": "2026-07-23T16:43:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORVAD-260201",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21852",
-      "title": "Wildfire 0584 COTTONWOOD, Gilliam, Oregon",
-      "lat": 45.453409,
-      "lon": -120.426363,
-      "date": "2026-07-23T13:20:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORPRD-000584",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21584",
-      "title": "Wildfire 0579 TEN MILE, Jefferson, Oregon",
-      "lat": 44.796442,
-      "lon": -121.014327,
-      "date": "2026-07-23T11:55:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORPRD-000579",
       "gdacs_url": null
     }
   ]
