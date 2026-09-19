@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-09-16T11:59:01Z",
+    "updated_at": "2026-09-19T11:19:21Z",
     "method": "7-day forward detection by 2-degree cell"
   },
   "runs": [
@@ -631,6 +631,72 @@
         "Moderate": {
           "cells": 1085,
           "with_fire": 496
+        },
+        "High": {
+          "cells": 21,
+          "with_fire": 18
+        },
+        "Extreme": {
+          "cells": 0,
+          "with_fire": 0
+        }
+      }
+    },
+    {
+      "snapshot_date": "2026-09-10",
+      "evaluated_at": "2026-09-19T11:19:15Z",
+      "by_bucket": {
+        "Low": {
+          "cells": 994,
+          "with_fire": 455
+        },
+        "Moderate": {
+          "cells": 1085,
+          "with_fire": 500
+        },
+        "High": {
+          "cells": 21,
+          "with_fire": 18
+        },
+        "Extreme": {
+          "cells": 0,
+          "with_fire": 0
+        }
+      }
+    },
+    {
+      "snapshot_date": "2026-09-11",
+      "evaluated_at": "2026-09-19T11:19:18Z",
+      "by_bucket": {
+        "Low": {
+          "cells": 994,
+          "with_fire": 454
+        },
+        "Moderate": {
+          "cells": 1085,
+          "with_fire": 497
+        },
+        "High": {
+          "cells": 21,
+          "with_fire": 18
+        },
+        "Extreme": {
+          "cells": 0,
+          "with_fire": 0
+        }
+      }
+    },
+    {
+      "snapshot_date": "2026-09-12",
+      "evaluated_at": "2026-09-19T11:19:21Z",
+      "by_bucket": {
+        "Low": {
+          "cells": 994,
+          "with_fire": 451
+        },
+        "Moderate": {
+          "cells": 1085,
+          "with_fire": 489
         },
         "High": {
           "cells": 21,
