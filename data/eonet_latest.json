@@ -1,10 +1,19 @@
 {
   "metadata": {
-    "updated_at": "2026-09-24T21:43:46Z",
+    "updated_at": "2026-09-25T05:10:51Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_24809",
+      "title": "Wildfire Merit Creek, Greene, Mississippi",
+      "lat": 31.052583,
+      "lon": -88.83785,
+      "date": "2026-09-23T10:12:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MSMNF-000578",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_24710",
       "title": "Wildfire Round Prarie, Morehouse, Louisiana",
@@ -12,6 +21,15 @@
       "lon": -91.989455,
       "date": "2026-09-20T17:32:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-LALAS-000390",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24810",
+      "title": "Prescribed Fire CRAWFORD CORRAL RX, Tulare, California",
+      "lat": 36.601661,
+      "lon": -118.9721,
+      "date": "2026-09-19T13:26:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-CATUU-000092",
       "gdacs_url": null
     },
     {
@@ -1785,24 +1803,6 @@
       "lon": -117.486992,
       "date": "2026-07-26T12:28:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-NVCCD-030614",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21831",
-      "title": "Wildfire SR - Buffalo, Sheridan, Wyoming",
-      "lat": 44.792721,
-      "lon": -106.320165,
-      "date": "2026-07-26T09:17:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WYSHX-000328",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21861",
-      "title": "Wildfire Island, La Paz, Arizona",
-      "lat": 33.279651,
-      "lon": -114.681482,
-      "date": "2026-07-26T02:14:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-AZCBR-000843",
       "gdacs_url": null
     }
   ]
