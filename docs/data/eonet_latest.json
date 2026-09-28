@@ -1,10 +1,37 @@
 {
   "metadata": {
-    "updated_at": "2026-09-28T14:12:31Z",
+    "updated_at": "2026-09-28T21:26:41Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_24904",
+      "title": "Wildfire Rafter 4B, Schleicher, Texas",
+      "lat": 30.76633,
+      "lon": -100.49806,
+      "date": "2026-09-26T15:18:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-268989",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24905",
+      "title": "Wildfire SECOND STREET, Benton, Washington",
+      "lat": 46.253671,
+      "lon": -119.470139,
+      "date": "2026-09-25T18:57:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WAWFS-260847",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24908",
+      "title": "Prescribed Fire Bonanza Ridge RX, Broadwater, Montana",
+      "lat": 46.2447,
+      "lon": -111.7702,
+      "date": "2026-09-24T12:55:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MTHLF-000752",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_24809",
       "title": "Wildfire Merit Creek, Greene, Mississippi",
@@ -12,6 +39,15 @@
       "lon": -88.83785,
       "date": "2026-09-23T10:12:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-MSMNF-000578",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24907",
+      "title": "Prescribed Fire Kelly Gulch RX, Lewis and Clark, Montana",
+      "lat": 46.735,
+      "lon": -111.726667,
+      "date": "2026-09-22T13:20:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MTHLF-000746",
       "gdacs_url": null
     },
     {
@@ -30,6 +66,15 @@
       "lon": -118.9721,
       "date": "2026-09-19T13:26:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-CATUU-000092",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24906",
+      "title": "Prescribed Fire Bear River MBR Unit 2c RX, Box Elder, Utah",
+      "lat": 41.4797,
+      "lon": -112.314683,
+      "date": "2026-09-18T15:00:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-UTBBR-200788",
       "gdacs_url": null
     },
     {
@@ -1758,51 +1803,6 @@
       "lon": -119.693117,
       "date": "2026-07-26T17:21:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-WANES-001791",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21856",
-      "title": "Wildfire RANSIER, Yakima, Washington",
-      "lat": 46.366533,
-      "lon": -120.742096,
-      "date": "2026-07-26T16:56:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WAYAA-000072",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21846",
-      "title": "Wildfire Alice, Harding, South Dakota",
-      "lat": 45.85795,
-      "lon": -103.533033,
-      "date": "2026-07-26T15:42:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-MTMCD-000565",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21859",
-      "title": "Wildfire KAWAIHAE ROAD, Hawaii, Hawaii",
-      "lat": 20.01978,
-      "lon": -155.792517,
-      "date": "2026-07-26T15:26:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-HIHAWX-001140",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21818",
-      "title": "Wildfire Chimney, Elko, Nevada",
-      "lat": 41.441783,
-      "lon": -116.988933,
-      "date": "2026-07-26T12:37:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-NVEKD-010352",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21819",
-      "title": "Wildfire New Pass, Churchill, Nevada",
-      "lat": 39.698784,
-      "lon": -117.486992,
-      "date": "2026-07-26T12:28:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-NVCCD-030614",
       "gdacs_url": null
     }
   ]
