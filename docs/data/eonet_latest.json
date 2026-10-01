@@ -1,10 +1,37 @@
 {
   "metadata": {
-    "updated_at": "2026-10-01T10:21:56Z",
+    "updated_at": "2026-10-01T18:37:57Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_24964",
+      "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+      "lat": 26.286667,
+      "lon": -98.692222,
+      "date": "2026-09-30T08:56:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-TXRGR-000402",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24963",
+      "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+      "lat": 46.0322,
+      "lon": -118.8588,
+      "date": "2026-09-29T19:50:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WAWFS-000664",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_24965",
+      "title": "Wildfire 3 ALPHA SIERRA, Broward, Florida",
+      "lat": 26.1341667,
+      "lon": -80.5952778,
+      "date": "2026-09-28T21:53:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-FLFLS-1800153",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_24904",
       "title": "Wildfire Rafter 4B, Schleicher, Texas",
@@ -1776,33 +1803,6 @@
       "lon": -105.096105,
       "date": "2026-07-27T10:36:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-WYCMX-000338",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21835",
-      "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
-      "lat": 45.50605836,
-      "lon": -101.8215463,
-      "date": "2026-07-27T00:31:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-NDSRA-000101",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22122",
-      "title": "Wildfire Moose, Granite, Montana",
-      "lat": 46.0722,
-      "lon": -113.69075,
-      "date": "2026-07-26T18:07:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-MTBDF-266293",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21821",
-      "title": "Wildfire SINLAHEKIN, Okanogan, Washington",
-      "lat": 48.704617,
-      "lon": -119.693117,
-      "date": "2026-07-26T17:21:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WANES-001791",
       "gdacs_url": null
     }
   ]
