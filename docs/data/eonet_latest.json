@@ -1,10 +1,37 @@
 {
   "metadata": {
-    "updated_at": "2026-10-05T14:56:14Z",
+    "updated_at": "2026-10-05T22:14:21Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_25043",
+      "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+      "lat": 33.447133,
+      "lon": -109.401883,
+      "date": "2026-10-02T17:58:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZASF-000967",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25042",
+      "title": "Wildfire Bull, Washoe, Nevada",
+      "lat": 39.539067,
+      "lon": -119.987683,
+      "date": "2026-10-02T14:26:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-NVTMFX-030869",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25045",
+      "title": "Prescribed Fire Starvation 11A Rx, Wallowa, Oregon",
+      "lat": 45.701354,
+      "lon": -117.251676,
+      "date": "2026-09-30T15:52:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-ORWWF-000669",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_24964",
       "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
@@ -33,6 +60,15 @@
       "gdacs_url": null
     },
     {
+      "id": "EONET_25041",
+      "title": "Prescribed Fire Walker Hill Piles RX, Coconino, Arizona",
+      "lat": 35.281778,
+      "lon": -111.847278,
+      "date": "2026-09-28T09:55:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001521",
+      "gdacs_url": null
+    },
+    {
       "id": "EONET_24904",
       "title": "Wildfire Rafter 4B, Schleicher, Texas",
       "lat": 30.76633,
@@ -48,6 +84,15 @@
       "lon": -119.470139,
       "date": "2026-09-25T18:57:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-WAWFS-260847",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25044",
+      "title": "Prescribed Fire Wolf A RX, Grant, Oregon",
+      "lat": 44.1182,
+      "lon": -118.7167,
+      "date": "2026-09-24T14:39:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-ORMAF-002744",
       "gdacs_url": null
     },
     {
@@ -1758,51 +1803,6 @@
       "lon": -112.498983,
       "date": "2026-07-27T19:19:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-UTFIF-260341",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21973",
-      "title": "Wildfire Potato Creek, Jackson, South Dakota",
-      "lat": 43.56335643,
-      "lon": -102.0730299,
-      "date": "2026-07-27T17:22:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-SDPRA-000126",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21971",
-      "title": "Wildfire FISH, Kern, California",
-      "lat": 35.2816667,
-      "lon": -118.65,
-      "date": "2026-07-27T15:11:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CAKRN-031524",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21969",
-      "title": "Wildfire Rayado Mesa, Colfax, New Mexico",
-      "lat": 36.3258,
-      "lon": -104.8503,
-      "date": "2026-07-27T15:09:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-NMN2S-000560",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21829",
-      "title": "Wildfire Fairpoint, Meade, South Dakota",
-      "lat": 44.7638889,
-      "lon": -102.8436111,
-      "date": "2026-07-27T11:21:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-SDSDS-260728",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21972",
-      "title": "Wildfire Kohns, Campbell, Wyoming",
-      "lat": 44.456138,
-      "lon": -105.096105,
-      "date": "2026-07-27T10:36:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WYCMX-000338",
       "gdacs_url": null
     }
   ]
