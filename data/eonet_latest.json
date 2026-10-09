@@ -1,10 +1,37 @@
 {
   "metadata": {
-    "updated_at": "2026-10-08T19:03:49Z",
+    "updated_at": "2026-10-09T01:24:14Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_25119",
+      "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+      "lat": 31.124246,
+      "lon": -86.526643,
+      "date": "2026-10-07T10:45:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-ALALF-000498",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25117",
+      "title": "Wildfire Jones, Elko, Nevada",
+      "lat": 41.02195,
+      "lon": -115.20765,
+      "date": "2026-10-05T23:14:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-NVECFX-010656",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25118",
+      "title": "Wildfire BOUQUET, Los Angeles, California",
+      "lat": 34.561835,
+      "lon": -118.40183,
+      "date": "2026-10-03T17:30:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-CAANF-264196",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_25043",
       "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
@@ -1776,33 +1803,6 @@
       "lon": -80.8119444,
       "date": "2026-07-28T19:53:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-FLFLS-261800117",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22118",
-      "title": "Wildfire Rio Blanco, Archuleta, Colorado",
-      "lat": 37.124649,
-      "lon": -106.985207,
-      "date": "2026-07-28T17:28:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-COSJF-000806",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21977",
-      "title": "Wildfire L 28, Broward, Florida",
-      "lat": 26.240333,
-      "lon": -80.8295,
-      "date": "2026-07-28T09:53:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-FLSET-002349",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21966",
-      "title": "Wildfire Widemouth 2, Millard, Utah",
-      "lat": 38.728917,
-      "lon": -112.498983,
-      "date": "2026-07-27T19:19:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-UTFIF-260341",
       "gdacs_url": null
     }
   ]
