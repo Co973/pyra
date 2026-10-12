@@ -1,10 +1,55 @@
 {
   "metadata": {
-    "updated_at": "2026-10-12T11:06:52Z",
+    "updated_at": "2026-10-12T21:31:01Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_25238",
+      "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+      "lat": 42.337217,
+      "lon": -114.102967,
+      "date": "2026-10-10T14:58:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-IDTFD-000268",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25233",
+      "title": "Wildfire PK, Sheridan, Wyoming",
+      "lat": 44.7516,
+      "lon": -107.2199,
+      "date": "2026-10-09T19:26:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WYSHX-000391",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25232",
+      "title": "Wildfire CYRUS, Kern, California",
+      "lat": 35.69875,
+      "lon": -118.418,
+      "date": "2026-10-09T17:15:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-CASQF-001695",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25234",
+      "title": "Prescribed Fire Bridger Trail Unit - KPERP Rx NKRD CY26, Coconino, Arizona",
+      "lat": 36.73752,
+      "lon": -112.185988,
+      "date": "2026-10-09T11:49:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZKNF-001107",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25235",
+      "title": "Prescribed Fire COOPER UNIT - KPERP RX NKRD  CY26, Coconino, Arizona",
+      "lat": 36.754175,
+      "lon": -112.214205,
+      "date": "2026-10-08T12:16:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZKNF-001101",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_25119",
       "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
@@ -15,12 +60,30 @@
       "gdacs_url": null
     },
     {
+      "id": "EONET_25240",
+      "title": "Prescribed Fire Bartlett Creek RX, Custer, Idaho",
+      "lat": 43.9,
+      "lon": -114.2,
+      "date": "2026-10-06T11:34:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-IDSCF-260197",
+      "gdacs_url": null
+    },
+    {
       "id": "EONET_25117",
       "title": "Wildfire Jones, Elko, Nevada",
       "lat": 41.02195,
       "lon": -115.20765,
       "date": "2026-10-05T23:14:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-NVECFX-010656",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25239",
+      "title": "Prescribed Fire West Fork RX, Wasatch, Utah",
+      "lat": 40.4646,
+      "lon": -111.058383,
+      "date": "2026-10-05T14:54:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-UTUWF-200827",
       "gdacs_url": null
     },
     {
@@ -48,6 +111,24 @@
       "lon": -119.987683,
       "date": "2026-10-02T14:26:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-NVTMFX-030869",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25236",
+      "title": "Prescribed Fire McCRAKEN RX-WRD CY26, Coconino, Arizona",
+      "lat": 35.116944,
+      "lon": -112.266889,
+      "date": "2026-10-01T17:00:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZKNF-001070",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25237",
+      "title": "Prescribed Fire KENDRICK RX-WRD CY26, Coconino, Arizona",
+      "lat": 35.403321,
+      "lon": -111.909179,
+      "date": "2026-10-01T16:51:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZKNF-001068",
       "gdacs_url": null
     },
     {
@@ -1722,87 +1803,6 @@
       "lon": -110.639667,
       "date": "2026-07-31T17:46:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-MTHLF-000529",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22103",
-      "title": "Wildfire Ward, White Pine, Nevada",
-      "lat": 39.103167,
-      "lon": -114.89485,
-      "date": "2026-07-31T14:03:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-NVHTF-040303",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22120",
-      "title": "Wildfire Black Canyon, Sanpete, Utah",
-      "lat": 39.383,
-      "lon": -111.307967,
-      "date": "2026-07-30T21:26:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-UTMLF-005244",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22202",
-      "title": "Wildfire Moose Mountain, Clearwater, Idaho",
-      "lat": 46.774933,
-      "lon": -115.2167,
-      "date": "2026-07-30T12:37:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-IDNCF-000349",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21965",
-      "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
-      "lat": 30.9780556,
-      "lon": -81.6666667,
-      "date": "2026-07-30T00:14:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-GAGAS-042702",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22448",
-      "title": "Wildfire Lake Channel, Power, Idaho",
-      "lat": 42.665061,
-      "lon": -113.020005,
-      "date": "2026-07-29T21:36:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-IDTFD-000999",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22608",
-      "title": "Wildfire Grotto, Idaho, Idaho",
-      "lat": 46.2559,
-      "lon": -115.093667,
-      "date": "2026-07-29T19:57:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-IDNCF-000348",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22123",
-      "title": "Wildfire Skillet, Lincoln, Montana",
-      "lat": 48.491333,
-      "lon": -114.86665,
-      "date": "2026-07-29T18:55:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-MTFNF-000306",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21968",
-      "title": "Wildfire Duhamel, Pennington, South Dakota",
-      "lat": 44.437,
-      "lon": -102.269833,
-      "date": "2026-07-29T18:24:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-SDPNX-260761",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_21976",
-      "title": "Wildfire HOLEY LAND (6), Broward, Florida",
-      "lat": 26.26,
-      "lon": -80.8119444,
-      "date": "2026-07-28T19:53:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-FLFLS-261800117",
       "gdacs_url": null
     }
   ]
