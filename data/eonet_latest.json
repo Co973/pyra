@@ -1,10 +1,64 @@
 {
   "metadata": {
-    "updated_at": "2026-10-20T14:31:31Z",
+    "updated_at": "2026-10-20T19:32:53Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_25455",
+      "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+      "lat": 36.948746,
+      "lon": -84.376511,
+      "date": "2026-10-18T08:25:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-KYDBF-260285",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25450",
+      "title": "Wildfire COOLEY, Mendocino, California",
+      "lat": 38.819722,
+      "lon": -123.188056,
+      "date": "2026-10-16T20:14:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-CAMEU-012265",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25452",
+      "title": "Wildfire NORTE, Orange, California",
+      "lat": 33.47965118,
+      "lon": -117.63483,
+      "date": "2026-10-16T14:52:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-CAORC-149182",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25454",
+      "title": "Prescribed Fire Rx Polk 9275, Polk, Texas",
+      "lat": 30.57111111,
+      "lon": -94.72916667,
+      "date": "2026-10-16T08:31:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-269275",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25451",
+      "title": "Wildfire HENDERSON, San Diego, California",
+      "lat": 33.34329,
+      "lon": -117.40938,
+      "date": "2026-10-15T17:11:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-CAPMQ-003992",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25456",
+      "title": "Prescribed Fire Newman 2 Piles RX, Coconino, Arizona",
+      "lat": 35.016667,
+      "lon": -111.65,
+      "date": "2026-10-15T11:29:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001569",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_25310",
       "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
@@ -1749,60 +1803,6 @@
       "lon": -117.612833,
       "date": "2026-08-01T18:49:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-WANES-001857",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22110",
-      "title": "Wildfire FELIZ, Mendocino, California",
-      "lat": 38.99246,
-      "lon": -123.16114,
-      "date": "2026-08-01T18:39:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CAMEU-008929",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22119",
-      "title": "Wildfire 0658 ROUND BUTTE, Jefferson, Oregon",
-      "lat": 44.600111,
-      "lon": -121.224778,
-      "date": "2026-08-01T18:32:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-OROCF-000658",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22111",
-      "title": "Wildfire FAIRVIEW, Spokane, Washington",
-      "lat": 47.750926,
-      "lon": -117.3577,
-      "date": "2026-08-01T17:42:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WANES-001852",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22116",
-      "title": "Wildfire Sand Creek, Beaverhead, Montana",
-      "lat": 45.554667,
-      "lon": -113.325667,
-      "date": "2026-08-01T16:39:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-MTBDF-266319",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22112",
-      "title": "Wildfire OLD TRAILS, Spokane, Washington",
-      "lat": 47.683851,
-      "lon": -117.533414,
-      "date": "2026-08-01T15:11:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WANES-001845",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22128",
-      "title": "Wildfire Potato Creek, Jackson, South Dakota",
-      "lat": 43.563356,
-      "lon": -102.07303,
-      "date": "2026-08-01T12:10:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-SDPRA-260748",
       "gdacs_url": null
     }
   ]
