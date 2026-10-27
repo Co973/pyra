@@ -1,10 +1,19 @@
 {
   "metadata": {
-    "updated_at": "2026-10-27T15:38:55Z",
+    "updated_at": "2026-10-27T22:32:35Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_25769",
+      "title": "Wildfire Range  47B, Forrest, Mississippi",
+      "lat": 31.099,
+      "lon": -89.161,
+      "date": "2026-10-24T17:10:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MSMNF-000672",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_25590",
       "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
@@ -12,6 +21,15 @@
       "lon": -82.8577778,
       "date": "2026-10-22T21:45:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-FLFLS-260601105",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25768",
+      "title": "Prescribed Fire Frog Tank 2 Piles RX, Coconino, Arizona",
+      "lat": 34.962583,
+      "lon": -111.657083,
+      "date": "2026-10-21T15:57:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001589",
       "gdacs_url": null
     },
     {
@@ -1785,24 +1803,6 @@
       "lon": -112.304918,
       "date": "2026-08-01T21:07:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-UTBRS-200554",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22443",
-      "title": "Wildfire Black Bear, Ravalli, Montana",
-      "lat": 46.167967,
-      "lon": -113.8895,
-      "date": "2026-08-01T20:58:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-MTBRF-000282",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22127",
-      "title": "Wildfire Semi 270, Woodward, Oklahoma",
-      "lat": 36.5143333,
-      "lon": -99.5161667,
-      "date": "2026-08-01T20:51:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-OKOKS-260786",
       "gdacs_url": null
     }
   ]
