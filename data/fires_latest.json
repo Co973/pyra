@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "updated_at": "2026-10-28T06:00:15Z",
+    "updated_at": "2026-10-28T13:15:33Z",
     "source": "NASA FIRMS",
     "demo": false,
-    "count": 72989,
+    "count": 72993,
     "warnings": []
   },
   "fires": [
@@ -116824,6 +116824,42 @@
       "frp": 1.12,
       "confidence": "n",
       "acq_datetime": "2026-10-27T16:01:00Z",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "lat": 54.61241,
+      "lon": 160.30551,
+      "frp": 2.52,
+      "confidence": "n",
+      "acq_datetime": "2026-10-27T15:58:00Z",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "lat": 54.61565,
+      "lon": 160.30759,
+      "frp": 3.5,
+      "confidence": "n",
+      "acq_datetime": "2026-10-27T15:58:00Z",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "lat": 54.6177,
+      "lon": 160.31599,
+      "frp": 3.5,
+      "confidence": "n",
+      "acq_datetime": "2026-10-27T15:58:00Z",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "lat": 54.62538,
+      "lon": 160.31361,
+      "frp": 2.08,
+      "confidence": "n",
+      "acq_datetime": "2026-10-27T15:58:00Z",
       "satellite": "N",
       "daynight": "N"
     },
