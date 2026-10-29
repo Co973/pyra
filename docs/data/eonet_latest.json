@@ -1,10 +1,46 @@
 {
   "metadata": {
-    "updated_at": "2026-10-29T10:16:48Z",
+    "updated_at": "2026-10-29T18:47:27Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_25827",
+      "title": "Wildfire South Tank Trail, Perry, Mississippi",
+      "lat": 31.085833,
+      "lon": -89.097783,
+      "date": "2026-10-28T18:02:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MSMNF-000680",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25829",
+      "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+      "lat": 35.259781,
+      "lon": -111.835978,
+      "date": "2026-10-28T11:22:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001563",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25830",
+      "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+      "lat": 34.545833,
+      "lon": -111.315915,
+      "date": "2026-10-28T11:21:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001597",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25828",
+      "title": "Prescribed Fire Newman 3 Piles RX, Coconino, Arizona",
+      "lat": 35.017139,
+      "lon": -111.639444,
+      "date": "2026-10-28T10:09:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001600",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_25769",
       "title": "Wildfire Range  47B, Forrest, Mississippi",
@@ -1767,42 +1803,6 @@
       "lon": -110.990383,
       "date": "2026-08-02T22:17:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-MTLG19-000260",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22108",
-      "title": "Wildfire Antelope Creek, Elko, Nevada",
-      "lat": 41.049033,
-      "lon": -116.543867,
-      "date": "2026-08-02T14:31:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-NVEKD-010378",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22105",
-      "title": "Wildfire Bluegill, Miami-Dade, Florida",
-      "lat": 25.75775,
-      "lon": -80.606167,
-      "date": "2026-08-02T12:47:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-FLEVP-002390",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22107",
-      "title": "Wildfire MITRE ROCK, Stevens, Washington",
-      "lat": 47.911635,
-      "lon": -118.328486,
-      "date": "2026-08-01T21:42:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WASPA-001868",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22109",
-      "title": "Wildfire Johnson Canyon, Box Elder, Utah",
-      "lat": 41.874782,
-      "lon": -112.304918,
-      "date": "2026-08-01T21:07:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-UTBRS-200554",
       "gdacs_url": null
     }
   ]
