@@ -1,10 +1,37 @@
 {
   "metadata": {
-    "updated_at": "2026-11-02T11:32:01Z",
+    "updated_at": "2026-11-02T21:59:30Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_25984",
+      "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+      "lat": 35.266667,
+      "lon": -111.616667,
+      "date": "2026-10-30T10:13:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001612",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25986",
+      "title": "Prescribed Fire McCarty Piles RX, Coconino, Arizona",
+      "lat": 34.513944,
+      "lon": -111.262694,
+      "date": "2026-10-29T12:16:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001609",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_25985",
+      "title": "Prescribed Fire Freidland-Chimney Piles RX, Coconino, Arizona",
+      "lat": 35.283333,
+      "lon": -111.666667,
+      "date": "2026-10-29T11:37:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001608",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_25827",
       "title": "Wildfire South Tank Trail, Perry, Mississippi",
@@ -1776,33 +1803,6 @@
       "lon": -110.48225,
       "date": "2026-08-04T17:46:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-WYBTF-002621",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22201",
-      "title": "Wildfire Butte, Gila, Arizona",
-      "lat": 33.509722,
-      "lon": -110.163611,
-      "date": "2026-08-03T21:15:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-AZSCA-001192",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22198",
-      "title": "Wildfire GANN, Calaveras, California",
-      "lat": 38.111446,
-      "lon": -120.77336,
-      "date": "2026-08-03T20:28:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CATCU-011483",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22101",
-      "title": "Wildfire Middle Coulee, Chouteau, Montana",
-      "lat": 47.733335,
-      "lon": -110.990383,
-      "date": "2026-08-02T22:17:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-MTLG19-000260",
       "gdacs_url": null
     }
   ]
