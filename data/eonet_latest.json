@@ -1,10 +1,19 @@
 {
   "metadata": {
-    "updated_at": "2026-11-05T07:08:57Z",
+    "updated_at": "2026-11-05T17:44:36Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_26057",
+      "title": "Wildfire Wild River, Coos, New Hampshire",
+      "lat": 44.330583,
+      "lon": -71.031283,
+      "date": "2026-11-02T07:58:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-NHWMF-000182",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_25984",
       "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
@@ -30,6 +39,15 @@
       "lon": -111.666667,
       "date": "2026-10-29T11:37:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001608",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26056",
+      "title": "Prescribed Fire TON RX - BAILEY LOST HP, Okanogan, Washington",
+      "lat": 48.532726,
+      "lon": -119.055205,
+      "date": "2026-10-29T11:08:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WACOF-002153",
       "gdacs_url": null
     },
     {
@@ -1785,24 +1803,6 @@
       "lon": -118.9227778,
       "date": "2026-08-05T11:08:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-CAKRN-032905",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22429",
-      "title": "Wildfire Frijoles, Santa Fe, New Mexico",
-      "lat": 35.908667,
-      "lon": -105.848167,
-      "date": "2026-08-05T10:05:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-NMSNF-000444",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22197",
-      "title": "Wildfire Bare, Sublette, Wyoming",
-      "lat": 42.758633,
-      "lon": -110.48225,
-      "date": "2026-08-04T17:46:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WYBTF-002621",
       "gdacs_url": null
     }
   ]
