@@ -1,10 +1,28 @@
 {
   "metadata": {
-    "updated_at": "2026-11-09T06:52:04Z",
+    "updated_at": "2026-11-10T03:51:14Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_26258",
+      "title": "Wildfire FOOT CREEK, Johnson, Wyoming",
+      "lat": 44.318717,
+      "lon": -106.93255,
+      "date": "2026-11-05T16:11:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WYBHF-000401",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26260",
+      "title": "Prescribed Fire Cold Springs RX, Wasatch, Utah",
+      "lat": 40.511329,
+      "lon": -110.943493,
+      "date": "2026-11-03T10:48:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-UTUWF-200860",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_26057",
       "title": "Wildfire Wild River, Coos, New Hampshire",
@@ -57,6 +75,15 @@
       "lon": -89.097783,
       "date": "2026-10-28T18:02:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-MSMNF-000680",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26259",
+      "title": "Prescribed Fire 3R RX - DRUMMOND MP, Stevens, Washington",
+      "lat": 48.402056,
+      "lon": -117.533129,
+      "date": "2026-10-28T11:42:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WACOF-002228",
       "gdacs_url": null
     },
     {
@@ -1776,33 +1803,6 @@
       "lon": -107.983983,
       "date": "2026-08-06T15:40:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-COGFX-260411",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22447",
-      "title": "Wildfire B.B, Osage, Oklahoma",
-      "lat": 36.907919,
-      "lon": -96.461093,
-      "date": "2026-08-06T12:56:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-OKOSA-002275",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22196",
-      "title": "Wildfire Wrights Spring, Klamath, Oregon",
-      "lat": 42.4695,
-      "lon": -121.728667,
-      "date": "2026-08-05T18:00:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORFWF-260286",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22195",
-      "title": "Wildfire BUZZARD, Kern, California",
-      "lat": 34.8997222,
-      "lon": -118.9227778,
-      "date": "2026-08-05T11:08:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CAKRN-032905",
       "gdacs_url": null
     }
   ]
