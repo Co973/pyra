@@ -1,10 +1,37 @@
 {
   "metadata": {
-    "updated_at": "2026-11-12T11:34:46Z",
+    "updated_at": "2026-11-12T20:14:04Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_26331",
+      "title": "Wildfire Red Hill, Perry, Mississippi",
+      "lat": 31.130069,
+      "lon": -89.063853,
+      "date": "2026-11-12T00:22:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MSMNF-000713",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26332",
+      "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+      "lat": 32.425,
+      "lon": -89.5974,
+      "date": "2026-11-11T09:57:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MSMNF-000709",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26333",
+      "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+      "lat": 33.747313,
+      "lon": -83.259363,
+      "date": "2026-11-09T16:30:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-GACHF-260217",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_26258",
       "title": "Wildfire FOOT CREEK, Johnson, Wyoming",
@@ -111,6 +138,15 @@
       "lon": -111.639444,
       "date": "2026-10-28T10:09:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001600",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26334",
+      "title": "Prescribed Fire REP RX - WALKER HP, Ferry, Washington",
+      "lat": 48.675381,
+      "lon": -118.561685,
+      "date": "2026-10-26T11:39:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WACOF-001045",
       "gdacs_url": null
     },
     {
@@ -1767,42 +1803,6 @@
       "lon": -111.642133,
       "date": "2026-08-07T18:30:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-UTNWS-200580",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22442",
-      "title": "Wildfire RIDGE, Los Angeles, California",
-      "lat": 34.79108,
-      "lon": -118.82999,
-      "date": "2026-08-07T17:44:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CALAC-278844",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22454",
-      "title": "Wildfire Montgomery Draw, Campbell, Wyoming",
-      "lat": 44.366767,
-      "lon": -105.8556,
-      "date": "2026-08-06T19:19:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WYCMX-000389",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22445",
-      "title": "Wildfire COTTONWOOD, Grant, Oregon",
-      "lat": 44.628133,
-      "lon": -119.380383,
-      "date": "2026-08-06T18:41:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-OR952S-026181",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22444",
-      "title": "Wildfire 310, Garfield, Colorado",
-      "lat": 39.44445,
-      "lon": -107.983983,
-      "date": "2026-08-06T15:40:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-COGFX-260411",
       "gdacs_url": null
     }
   ]
