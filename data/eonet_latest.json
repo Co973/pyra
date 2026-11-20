@@ -1,10 +1,64 @@
 {
   "metadata": {
-    "updated_at": "2026-11-20T11:58:19Z",
+    "updated_at": "2026-11-20T20:38:16Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_26568",
+      "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+      "lat": 36.36301667,
+      "lon": -82.7985,
+      "date": "2026-11-18T14:11:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-TNTNS-261114",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26569",
+      "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+      "lat": 28.762433,
+      "lon": -95.80795,
+      "date": "2026-11-18T09:44:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-TXHGR-000422",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26571",
+      "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+      "lat": 32.945935,
+      "lon": -87.347136,
+      "date": "2026-11-18T09:18:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-ALALF-000534",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26572",
+      "title": "Prescribed Fire rx-Lapham Good Oak 2026, Waukesha, Wisconsin",
+      "lat": 43.0403647,
+      "lon": -88.3992015,
+      "date": "2026-11-18T08:47:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WIWIS-RX3524",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26573",
+      "title": "Prescribed Fire STEELY MILL RX, El Dorado, California",
+      "lat": 38.619383,
+      "lon": -120.50025,
+      "date": "2026-11-16T11:32:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-CAENF-035548",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26575",
+      "title": "Prescribed Fire Elk/Clark Piles RX, Coconino, Arizona",
+      "lat": 35.050444,
+      "lon": -111.578139,
+      "date": "2026-11-16T09:06:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001646",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_26465",
       "title": "Wildfire Range 47, Forrest, Mississippi",
@@ -66,6 +120,24 @@
       "lon": -89.5974,
       "date": "2026-11-11T09:57:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-MSMNF-000709",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26576",
+      "title": "Prescribed Fire TSK Compartment 6 RX, Macon, Alabama",
+      "lat": 32.446972,
+      "lon": -85.653222,
+      "date": "2026-11-11T08:18:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-ALALF-000525",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26577",
+      "title": "Prescribed Fire Strawberry RX, Wasatch, Utah",
+      "lat": 40.31,
+      "lon": -111.2668,
+      "date": "2026-11-10T17:06:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-UTUWF-200865",
       "gdacs_url": null
     },
     {
@@ -1731,78 +1803,6 @@
       "lon": -119.525167,
       "date": "2026-08-10T13:31:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-NVTMFX-030698",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22430",
-      "title": "Wildfire Harris, Rosebud, Montana",
-      "lat": 45.195183,
-      "lon": -106.634317,
-      "date": "2026-08-09T16:55:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-MTMCD-000676",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22424",
-      "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
-      "lat": 42.636437,
-      "lon": -108.607547,
-      "date": "2026-08-09T16:32:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WYWBD-000294",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22611",
-      "title": "Wildfire AUSTIN, Clackamas, Oregon",
-      "lat": 45.025216,
-      "lon": -121.944872,
-      "date": "2026-08-09T14:30:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-ORMHF-000863",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22428",
-      "title": "Wildfire Brown, Oldham, Texas",
-      "lat": 35.3735,
-      "lon": -102.989,
-      "date": "2026-08-09T14:21:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-266753",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22427",
-      "title": "Wildfire Fred Mt, Washoe, Nevada",
-      "lat": 39.762667,
-      "lon": -119.8492,
-      "date": "2026-08-09T13:39:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-NVTMFX-030694",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22431",
-      "title": "Wildfire Timber, Monterey, California",
-      "lat": 36.215894,
-      "lon": -121.717508,
-      "date": "2026-08-09T00:36:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-CALPF-002271",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22434",
-      "title": "Wildfire PALOUSE RIVER, Whitman, Washington",
-      "lat": 46.870892,
-      "lon": -117.307978,
-      "date": "2026-08-08T20:58:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WAWFS-001934",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22432",
-      "title": "Wildfire Bug, Lassen, California",
-      "lat": 39.727883,
-      "lon": -120.038117,
-      "date": "2026-08-08T18:49:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-NVCCD-030683",
       "gdacs_url": null
     }
   ]
