@@ -1,10 +1,28 @@
 {
   "metadata": {
-    "updated_at": "2026-11-24T02:27:27Z",
+    "updated_at": "2026-11-24T14:01:27Z",
     "source": "NASA EONET",
     "demo": false
   },
   "events": [
+    {
+      "id": "EONET_26661",
+      "title": "Wildfire Little Ridge, Highland, Virginia",
+      "lat": 38.313617,
+      "lon": -79.791367,
+      "date": "2026-11-21T23:15:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-VAVAF-260139",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26662",
+      "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+      "lat": 37.8422,
+      "lon": -79.862117,
+      "date": "2026-11-20T13:16:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-VAVAF-260136",
+      "gdacs_url": null
+    },
     {
       "id": "EONET_26568",
       "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
@@ -48,6 +66,15 @@
       "lon": -120.50025,
       "date": "2026-11-16T11:32:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-CAENF-035548",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26665",
+      "title": "Prescribed Fire RX D7 Second Skinny Landings, Mineral, Montana",
+      "lat": 47.122717,
+      "lon": -114.752017,
+      "date": "2026-11-16T09:41:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-MTLNF-260581",
       "gdacs_url": null
     },
     {
@@ -147,6 +174,15 @@
       "lon": -83.259363,
       "date": "2026-11-09T16:30:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-GACHF-260217",
+      "gdacs_url": null
+    },
+    {
+      "id": "EONET_26663",
+      "title": "Prescribed Fire 3R RX - ROCKY MP, Stevens, Washington",
+      "lat": 48.387611,
+      "lon": -117.618779,
+      "date": "2026-11-09T11:50:00Z",
+      "url": "https://irwin.doi.gov/observer/incidents/2026-WACOF-002230",
       "gdacs_url": null
     },
     {
@@ -1767,42 +1803,6 @@
       "lon": -117.24742,
       "date": "2026-08-11T18:20:00Z",
       "url": "https://irwin.doi.gov/observer/incidents/2026-WAWFS-001959",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22617",
-      "title": "Wildfire Cold Springs, Converse, Wyoming",
-      "lat": 42.724444,
-      "lon": -105.491389,
-      "date": "2026-08-10T19:30:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-WYCOX-000403",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22622",
-      "title": "Prescribed Fire RX Tom Green 6687, Tom Green, Texas",
-      "lat": 31.15027778,
-      "lon": -100.4636111,
-      "date": "2026-08-10T18:16:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-266687",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22618",
-      "title": "Wildfire Bufford Creek, Stephens, Texas",
-      "lat": 32.7971975,
-      "lon": -98.82243696,
-      "date": "2026-08-10T15:52:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-266794",
-      "gdacs_url": null
-    },
-    {
-      "id": "EONET_22612",
-      "title": "Wildfire Stallion, Washoe, Nevada",
-      "lat": 39.822833,
-      "lon": -119.525167,
-      "date": "2026-08-10T13:31:00Z",
-      "url": "https://irwin.doi.gov/observer/incidents/2026-NVTMFX-030698",
       "gdacs_url": null
     }
   ]
