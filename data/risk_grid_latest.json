@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-11-27T17:04:25Z",
+    "updated_at": "2026-11-28T15:55:34Z",
     "source": "NASA POWER + Pyra heuristic",
     "demo": false,
     "count": 3046
@@ -592,6 +592,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": -43,
+      "risk_score": 0.603,
+      "bucket": "High",
+      "weather": {
+        "temp_c": 33.22,
+        "humidity_pct": 33.02,
+        "wind_ms": 4.58,
+        "wind_dir": 78.8,
+        "rain_7d_mm": 2.95
+      }
+    },
+    {
       "lat": -21,
       "lon": 123,
       "risk_score": 0.602,
@@ -683,19 +696,6 @@
       }
     },
     {
-      "lat": -11,
-      "lon": -53,
-      "risk_score": 0.596,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 29.68,
-        "humidity_pct": 27.83,
-        "wind_ms": 1.61,
-        "wind_dir": 87.7,
-        "rain_7d_mm": 0.0
-      }
-    },
-    {
       "lat": -29,
       "lon": 139,
       "risk_score": 0.595,
@@ -735,19 +735,6 @@
       }
     },
     {
-      "lat": -11,
-      "lon": -49,
-      "risk_score": 0.593,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 31.32,
-        "humidity_pct": 33.09,
-        "wind_ms": 2.3,
-        "wind_dir": 75.5,
-        "rain_7d_mm": 0.0
-      }
-    },
-    {
       "lat": 7,
       "lon": 47,
       "risk_score": 0.592,
@@ -770,19 +757,6 @@
         "humidity_pct": 28.88,
         "wind_ms": 2.42,
         "wind_dir": 94.4,
-        "rain_7d_mm": 0.0
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -51,
-      "risk_score": 0.591,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 31.63,
-        "humidity_pct": 33.92,
-        "wind_ms": 2.31,
-        "wind_dir": 101.4,
         "rain_7d_mm": 0.0
       }
     },
@@ -1190,19 +1164,6 @@
       }
     },
     {
-      "lat": -11,
-      "lon": -45,
-      "risk_score": 0.571,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 28.23,
-        "humidity_pct": 34.42,
-        "wind_ms": 3.1,
-        "wind_dir": 82.8,
-        "rain_7d_mm": 0.01
-      }
-    },
-    {
       "lat": 11,
       "lon": 47,
       "risk_score": 0.571,
@@ -1281,19 +1242,6 @@
       }
     },
     {
-      "lat": -11,
-      "lon": -43,
-      "risk_score": 0.566,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 28.04,
-        "humidity_pct": 36.63,
-        "wind_ms": 3.63,
-        "wind_dir": 80.7,
-        "rain_7d_mm": 0.0
-      }
-    },
-    {
       "lat": -29,
       "lon": 149,
       "risk_score": 0.564,
@@ -1343,19 +1291,6 @@
         "wind_ms": 4.28,
         "wind_dir": 300.3,
         "rain_7d_mm": 9.35
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -47,
-      "risk_score": 0.562,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 28.43,
-        "humidity_pct": 36.56,
-        "wind_ms": 3.1,
-        "wind_dir": 84.5,
-        "rain_7d_mm": 0.0
       }
     },
     {
@@ -2022,6 +1957,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": -41,
+      "risk_score": 0.535,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 28.99,
+        "humidity_pct": 43.43,
+        "wind_ms": 5.2,
+        "wind_dir": 104.8,
+        "rain_7d_mm": 2.04
+      }
+    },
+    {
       "lat": -9,
       "lon": -55,
       "risk_score": 0.533,
@@ -2110,19 +2058,6 @@
         "wind_ms": 3.56,
         "wind_dir": 51.5,
         "rain_7d_mm": 4.48
-      }
-    },
-    {
-      "lat": -13,
-      "lon": 133,
-      "risk_score": 0.532,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 26.03,
-        "humidity_pct": 45.94,
-        "wind_ms": 5.94,
-        "wind_dir": 112.5,
-        "rain_7d_mm": 0.06
       }
     },
     {
@@ -2659,6 +2594,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": -39,
+      "risk_score": 0.507,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 29.4,
+        "humidity_pct": 54.44,
+        "wind_ms": 5.61,
+        "wind_dir": 88.7,
+        "rain_7d_mm": 0.57
+      }
+    },
+    {
       "lat": -5,
       "lon": 113,
       "risk_score": 0.507,
@@ -2945,19 +2893,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 43,
-      "risk_score": 0.495,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.34,
-        "humidity_pct": 76.96,
-        "wind_ms": 9.65,
-        "wind_dir": 189.9,
-        "rain_7d_mm": 0.9
-      }
-    },
-    {
       "lat": -9,
       "lon": 131,
       "risk_score": 0.495,
@@ -3007,19 +2942,6 @@
         "wind_ms": 3.94,
         "wind_dir": 169.9,
         "rain_7d_mm": 0.1
-      }
-    },
-    {
-      "lat": -13,
-      "lon": 131,
-      "risk_score": 0.494,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 28.42,
-        "humidity_pct": 49.27,
-        "wind_ms": 3.19,
-        "wind_dir": 87.5,
-        "rain_7d_mm": 0.45
       }
     },
     {
@@ -3192,19 +3114,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 41,
-      "risk_score": 0.489,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.17,
-        "humidity_pct": 74.9,
-        "wind_ms": 11.53,
-        "wind_dir": 181.6,
-        "rain_7d_mm": 3.27
-      }
-    },
-    {
       "lat": -7,
       "lon": 35,
       "risk_score": 0.489,
@@ -3254,19 +3163,6 @@
         "wind_ms": 1.8,
         "wind_dir": 118.2,
         "rain_7d_mm": 0.19
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -55,
-      "risk_score": 0.487,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 26.93,
-        "humidity_pct": 44.48,
-        "wind_ms": 1.39,
-        "wind_dir": 197.0,
-        "rain_7d_mm": 0.0
       }
     },
     {
@@ -3686,19 +3582,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 145,
-      "risk_score": 0.477,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 24.91,
-        "humidity_pct": 79.13,
-        "wind_ms": 9.41,
-        "wind_dir": 125.3,
-        "rain_7d_mm": 1.84
-      }
-    },
-    {
       "lat": -11,
       "lon": 101,
       "risk_score": 0.477,
@@ -3933,6 +3816,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": -37,
+      "risk_score": 0.473,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 27.53,
+        "humidity_pct": 75.01,
+        "wind_ms": 6.75,
+        "wind_dir": 72.3,
+        "rain_7d_mm": 1.03
+      }
+    },
+    {
       "lat": -7,
       "lon": 127,
       "risk_score": 0.473,
@@ -4141,32 +4037,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 137,
-      "risk_score": 0.467,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.51,
-        "humidity_pct": 76.1,
-        "wind_ms": 6.83,
-        "wind_dir": 125.5,
-        "rain_7d_mm": 0.3
-      }
-    },
-    {
-      "lat": -13,
-      "lon": 153,
-      "risk_score": 0.467,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.05,
-        "humidity_pct": 76.09,
-        "wind_ms": 9.77,
-        "wind_dir": 155.7,
-        "rain_7d_mm": 3.08
-      }
-    },
-    {
       "lat": -9,
       "lon": 137,
       "risk_score": 0.467,
@@ -4271,19 +4141,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 151,
-      "risk_score": 0.466,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.04,
-        "humidity_pct": 74.73,
-        "wind_ms": 9.17,
-        "wind_dir": 147.1,
-        "rain_7d_mm": 2.54
-      }
-    },
-    {
       "lat": -5,
       "lon": 119,
       "risk_score": 0.466,
@@ -4310,19 +4167,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 147,
-      "risk_score": 0.465,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 24.92,
-        "humidity_pct": 78.24,
-        "wind_ms": 8.78,
-        "wind_dir": 130.4,
-        "rain_7d_mm": 2.11
-      }
-    },
-    {
       "lat": -5,
       "lon": 147,
       "risk_score": 0.465,
@@ -4333,6 +4177,19 @@
         "wind_ms": 7.75,
         "wind_dir": 122.5,
         "rain_7d_mm": 2.72
+      }
+    },
+    {
+      "lat": -13,
+      "lon": 121,
+      "risk_score": 0.464,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 29.45,
+        "humidity_pct": 74.8,
+        "wind_ms": 4.15,
+        "wind_dir": 242.1,
+        "rain_7d_mm": 0.25
       }
     },
     {
@@ -4372,6 +4229,19 @@
         "wind_ms": 4.72,
         "wind_dir": 232.0,
         "rain_7d_mm": 0.0
+      }
+    },
+    {
+      "lat": -13,
+      "lon": 113,
+      "risk_score": 0.463,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 27.0,
+        "humidity_pct": 78.42,
+        "wind_ms": 5.37,
+        "wind_dir": 183.0,
+        "rain_7d_mm": 0.01
       }
     },
     {
@@ -4544,6 +4414,32 @@
       }
     },
     {
+      "lat": -13,
+      "lon": 115,
+      "risk_score": 0.46,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 27.52,
+        "humidity_pct": 78.61,
+        "wind_ms": 4.77,
+        "wind_dir": 190.5,
+        "rain_7d_mm": 0.0
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -35,
+      "risk_score": 0.46,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 27.49,
+        "humidity_pct": 75.97,
+        "wind_ms": 6.6,
+        "wind_dir": 69.1,
+        "rain_7d_mm": 1.93
+      }
+    },
+    {
       "lat": -9,
       "lon": 41,
       "risk_score": 0.46,
@@ -4619,6 +4515,32 @@
         "wind_ms": 4.97,
         "wind_dir": 283.7,
         "rain_7d_mm": 1.0
+      }
+    },
+    {
+      "lat": -13,
+      "lon": 117,
+      "risk_score": 0.458,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 28.18,
+        "humidity_pct": 77.33,
+        "wind_ms": 4.22,
+        "wind_dir": 206.1,
+        "rain_7d_mm": 0.0
+      }
+    },
+    {
+      "lat": -13,
+      "lon": 119,
+      "risk_score": 0.458,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 28.87,
+        "humidity_pct": 75.64,
+        "wind_ms": 3.81,
+        "wind_dir": 220.0,
+        "rain_7d_mm": 0.0
       }
     },
     {
@@ -4973,6 +4895,19 @@
       }
     },
     {
+      "lat": -13,
+      "lon": 125,
+      "risk_score": 0.454,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 30.3,
+        "humidity_pct": 75.79,
+        "wind_ms": 3.56,
+        "wind_dir": 241.9,
+        "rain_7d_mm": 1.01
+      }
+    },
+    {
       "lat": -15,
       "lon": 115,
       "risk_score": 0.453,
@@ -5090,19 +5025,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 139,
-      "risk_score": 0.451,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.57,
-        "humidity_pct": 79.28,
-        "wind_ms": 5.68,
-        "wind_dir": 120.2,
-        "rain_7d_mm": 0.34
-      }
-    },
-    {
       "lat": -5,
       "lon": 95,
       "risk_score": 0.451,
@@ -5204,19 +5126,6 @@
         "wind_ms": 9.75,
         "wind_dir": 166.8,
         "rain_7d_mm": 0.12
-      }
-    },
-    {
-      "lat": -13,
-      "lon": 45,
-      "risk_score": 0.449,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.44,
-        "humidity_pct": 79.87,
-        "wind_ms": 7.14,
-        "wind_dir": 199.1,
-        "rain_7d_mm": 1.95
       }
     },
     {
@@ -5480,16 +5389,16 @@
       }
     },
     {
-      "lat": -11,
-      "lon": -41,
+      "lat": -13,
+      "lon": 123,
       "risk_score": 0.445,
       "bucket": "Moderate",
       "weather": {
-        "temp_c": 23.86,
-        "humidity_pct": 52.78,
-        "wind_ms": 3.64,
-        "wind_dir": 106.0,
-        "rain_7d_mm": 0.43
+        "temp_c": 29.95,
+        "humidity_pct": 75.24,
+        "wind_ms": 3.78,
+        "wind_dir": 246.6,
+        "rain_7d_mm": 1.76
       }
     },
     {
@@ -5516,19 +5425,6 @@
         "wind_ms": 5.16,
         "wind_dir": 209.4,
         "rain_7d_mm": 1.63
-      }
-    },
-    {
-      "lat": -13,
-      "lon": 135,
-      "risk_score": 0.444,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.07,
-        "humidity_pct": 61.69,
-        "wind_ms": 5.17,
-        "wind_dir": 124.0,
-        "rain_7d_mm": 0.07
       }
     },
     {
@@ -5818,6 +5714,19 @@
       }
     },
     {
+      "lat": -13,
+      "lon": 145,
+      "risk_score": 0.44,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 27.3,
+        "humidity_pct": 71.67,
+        "wind_ms": 5.5,
+        "wind_dir": 126.3,
+        "rain_7d_mm": 2.21
+      }
+    },
+    {
       "lat": -11,
       "lon": 115,
       "risk_score": 0.44,
@@ -5974,19 +5883,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 51,
-      "risk_score": 0.438,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.12,
-        "humidity_pct": 82.55,
-        "wind_ms": 6.8,
-        "wind_dir": 142.8,
-        "rain_7d_mm": 2.27
-      }
-    },
-    {
       "lat": 1,
       "lon": -45,
       "risk_score": 0.438,
@@ -6065,6 +5961,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": -79,
+      "risk_score": 0.437,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 25.81,
+        "humidity_pct": 83.84,
+        "wind_ms": 5.12,
+        "wind_dir": 159.7,
+        "rain_7d_mm": 1.04
+      }
+    },
+    {
       "lat": -41,
       "lon": -51,
       "risk_score": 0.437,
@@ -6088,19 +5997,6 @@
         "wind_ms": 8.62,
         "wind_dir": 127.6,
         "rain_7d_mm": 4.91
-      }
-    },
-    {
-      "lat": -11,
-      "lon": 17,
-      "risk_score": 0.436,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 23.01,
-        "humidity_pct": 49.36,
-        "wind_ms": 1.82,
-        "wind_dir": 124.7,
-        "rain_7d_mm": 0.03
       }
     },
     {
@@ -6247,19 +6143,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 121,
-      "risk_score": 0.434,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.93,
-        "humidity_pct": 79.37,
-        "wind_ms": 4.17,
-        "wind_dir": 101.7,
-        "rain_7d_mm": 0.32
-      }
-    },
-    {
       "lat": -9,
       "lon": 23,
       "risk_score": 0.434,
@@ -6313,15 +6196,15 @@
     },
     {
       "lat": -13,
-      "lon": 123,
+      "lon": 41,
       "risk_score": 0.433,
       "bucket": "Moderate",
       "weather": {
-        "temp_c": 26.02,
-        "humidity_pct": 80.6,
-        "wind_ms": 3.99,
-        "wind_dir": 88.0,
-        "rain_7d_mm": 0.28
+        "temp_c": 28.17,
+        "humidity_pct": 81.29,
+        "wind_ms": 5.38,
+        "wind_dir": 22.8,
+        "rain_7d_mm": 3.19
       }
     },
     {
@@ -6429,45 +6312,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 115,
-      "risk_score": 0.432,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.59,
-        "humidity_pct": 72.75,
-        "wind_ms": 4.8,
-        "wind_dir": 110.8,
-        "rain_7d_mm": 0.98
-      }
-    },
-    {
-      "lat": -13,
-      "lon": 119,
-      "risk_score": 0.432,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.45,
-        "humidity_pct": 78.26,
-        "wind_ms": 4.37,
-        "wind_dir": 117.4,
-        "rain_7d_mm": 0.43
-      }
-    },
-    {
-      "lat": -13,
-      "lon": 125,
-      "risk_score": 0.432,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.86,
-        "humidity_pct": 82.25,
-        "wind_ms": 3.99,
-        "wind_dir": 81.0,
-        "rain_7d_mm": 0.25
-      }
-    },
-    {
       "lat": -11,
       "lon": 153,
       "risk_score": 0.432,
@@ -6559,19 +6403,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 141,
-      "risk_score": 0.431,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.68,
-        "humidity_pct": 75.59,
-        "wind_ms": 4.61,
-        "wind_dir": 105.2,
-        "rain_7d_mm": 0.91
-      }
-    },
-    {
       "lat": -5,
       "lon": 35,
       "risk_score": 0.431,
@@ -6660,6 +6491,19 @@
         "wind_ms": 8.17,
         "wind_dir": 143.6,
         "rain_7d_mm": 1.12
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -45,
+      "risk_score": 0.43,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 32.46,
+        "humidity_pct": 35.43,
+        "wind_ms": 2.79,
+        "wind_dir": 68.2,
+        "rain_7d_mm": 13.36
       }
     },
     {
@@ -6897,19 +6741,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 149,
-      "risk_score": 0.428,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.02,
-        "humidity_pct": 75.87,
-        "wind_ms": 8.52,
-        "wind_dir": 135.5,
-        "rain_7d_mm": 4.9
-      }
-    },
-    {
       "lat": 1,
       "lon": 149,
       "risk_score": 0.428,
@@ -6985,19 +6816,6 @@
         "wind_ms": 7.41,
         "wind_dir": 115.3,
         "rain_7d_mm": 2.3
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -79,
-      "risk_score": 0.427,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 21.94,
-        "humidity_pct": 83.89,
-        "wind_ms": 6.55,
-        "wind_dir": 158.2,
-        "rain_7d_mm": 0.78
       }
     },
     {
@@ -7196,6 +7014,45 @@
       }
     },
     {
+      "lat": -13,
+      "lon": 49,
+      "risk_score": 0.425,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 29.15,
+        "humidity_pct": 63.49,
+        "wind_ms": 3.93,
+        "wind_dir": 123.4,
+        "rain_7d_mm": 2.96
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -11,
+      "risk_score": 0.425,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 23.67,
+        "humidity_pct": 76.62,
+        "wind_ms": 6.28,
+        "wind_dir": 122.7,
+        "rain_7d_mm": 1.84
+      }
+    },
+    {
+      "lat": -11,
+      "lon": 3,
+      "risk_score": 0.425,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 22.79,
+        "humidity_pct": 84.69,
+        "wind_ms": 5.98,
+        "wind_dir": 155.8,
+        "rain_7d_mm": 0.9
+      }
+    },
+    {
       "lat": 3,
       "lon": 147,
       "risk_score": 0.425,
@@ -7275,19 +7132,6 @@
     },
     {
       "lat": -11,
-      "lon": -9,
-      "risk_score": 0.424,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 22.49,
-        "humidity_pct": 80.1,
-        "wind_ms": 6.03,
-        "wind_dir": 115.5,
-        "rain_7d_mm": 0.87
-      }
-    },
-    {
-      "lat": -11,
       "lon": 39,
       "risk_score": 0.424,
       "bucket": "Moderate",
@@ -7349,6 +7193,45 @@
         "wind_ms": 7.12,
         "wind_dir": 134.7,
         "rain_7d_mm": 1.04
+      }
+    },
+    {
+      "lat": -13,
+      "lon": 127,
+      "risk_score": 0.423,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 29.83,
+        "humidity_pct": 77.1,
+        "wind_ms": 3.11,
+        "wind_dir": 213.3,
+        "rain_7d_mm": 2.68
+      }
+    },
+    {
+      "lat": -13,
+      "lon": 137,
+      "risk_score": 0.423,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 29.52,
+        "humidity_pct": 75.64,
+        "wind_ms": 4.03,
+        "wind_dir": 53.0,
+        "rain_7d_mm": 3.45
+      }
+    },
+    {
+      "lat": -11,
+      "lon": 11,
+      "risk_score": 0.423,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 25.45,
+        "humidity_pct": 80.38,
+        "wind_ms": 3.76,
+        "wind_dir": 204.6,
+        "rain_7d_mm": 0.5
       }
     },
     {
@@ -7453,19 +7336,6 @@
         "wind_ms": 3.38,
         "wind_dir": 74.0,
         "rain_7d_mm": 2.02
-      }
-    },
-    {
-      "lat": -13,
-      "lon": 117,
-      "risk_score": 0.422,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.52,
-        "humidity_pct": 74.71,
-        "wind_ms": 4.51,
-        "wind_dir": 112.9,
-        "rain_7d_mm": 1.41
       }
     },
     {
@@ -7677,58 +7547,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 127,
-      "risk_score": 0.421,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 26.01,
-        "humidity_pct": 79.27,
-        "wind_ms": 3.17,
-        "wind_dir": 97.8,
-        "rain_7d_mm": 0.35
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -81,
-      "risk_score": 0.421,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 22.09,
-        "humidity_pct": 82.51,
-        "wind_ms": 6.57,
-        "wind_dir": 156.2,
-        "rain_7d_mm": 1.41
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -1,
-      "risk_score": 0.421,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 21.12,
-        "humidity_pct": 84.39,
-        "wind_ms": 6.6,
-        "wind_dir": 128.5,
-        "rain_7d_mm": 0.74
-      }
-    },
-    {
-      "lat": -11,
-      "lon": 1,
-      "risk_score": 0.421,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 20.44,
-        "humidity_pct": 85.38,
-        "wind_ms": 6.53,
-        "wind_dir": 133.4,
-        "rain_7d_mm": 0.27
-      }
-    },
-    {
       "lat": -9,
       "lon": -17,
       "risk_score": 0.421,
@@ -7830,45 +7648,6 @@
         "wind_ms": 3.71,
         "wind_dir": 159.0,
         "rain_7d_mm": 0.01
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -35,
-      "risk_score": 0.42,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.6,
-        "humidity_pct": 76.16,
-        "wind_ms": 4.05,
-        "wind_dir": 108.4,
-        "rain_7d_mm": 1.1
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -7,
-      "risk_score": 0.42,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 22.09,
-        "humidity_pct": 80.96,
-        "wind_ms": 6.09,
-        "wind_dir": 118.0,
-        "rain_7d_mm": 0.95
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -3,
-      "risk_score": 0.42,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 21.45,
-        "humidity_pct": 83.3,
-        "wind_ms": 6.4,
-        "wind_dir": 124.7,
-        "rain_7d_mm": 0.88
       }
     },
     {
@@ -8002,16 +7781,16 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 47,
+      "lat": -11,
+      "lon": 1,
       "risk_score": 0.419,
       "bucket": "Moderate",
       "weather": {
-        "temp_c": 26.01,
-        "humidity_pct": 74.66,
-        "wind_ms": 3.16,
-        "wind_dir": 204.7,
-        "rain_7d_mm": 0.51
+        "temp_c": 23.0,
+        "humidity_pct": 82.82,
+        "wind_ms": 6.06,
+        "wind_dir": 152.3,
+        "rain_7d_mm": 1.63
       }
     },
     {
@@ -8198,28 +7977,15 @@
     },
     {
       "lat": -11,
-      "lon": -15,
+      "lon": -17,
       "risk_score": 0.418,
       "bucket": "Moderate",
       "weather": {
-        "temp_c": 23.93,
-        "humidity_pct": 78.12,
-        "wind_ms": 4.97,
-        "wind_dir": 103.8,
-        "rain_7d_mm": 1.11
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -5,
-      "risk_score": 0.418,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 21.66,
-        "humidity_pct": 82.81,
-        "wind_ms": 6.23,
-        "wind_dir": 121.4,
-        "rain_7d_mm": 1.0
+        "temp_c": 24.06,
+        "humidity_pct": 76.82,
+        "wind_ms": 6.59,
+        "wind_dir": 117.7,
+        "rain_7d_mm": 2.98
       }
     },
     {
@@ -8354,28 +8120,28 @@
     },
     {
       "lat": -11,
-      "lon": -17,
+      "lon": -15,
       "risk_score": 0.417,
       "bucket": "Moderate",
       "weather": {
-        "temp_c": 24.2,
-        "humidity_pct": 77.16,
-        "wind_ms": 4.54,
-        "wind_dir": 105.1,
-        "rain_7d_mm": 0.98
+        "temp_c": 23.83,
+        "humidity_pct": 76.93,
+        "wind_ms": 6.54,
+        "wind_dir": 117.3,
+        "rain_7d_mm": 2.82
       }
     },
     {
       "lat": -11,
-      "lon": -11,
+      "lon": -13,
       "risk_score": 0.417,
       "bucket": "Moderate",
       "weather": {
-        "temp_c": 23.35,
-        "humidity_pct": 77.09,
-        "wind_ms": 5.44,
-        "wind_dir": 106.8,
-        "rain_7d_mm": 1.32
+        "temp_c": 23.68,
+        "humidity_pct": 76.94,
+        "wind_ms": 6.34,
+        "wind_dir": 119.4,
+        "rain_7d_mm": 2.51
       }
     },
     {
@@ -8471,15 +8237,41 @@
     },
     {
       "lat": -11,
-      "lon": -13,
+      "lon": -1,
       "risk_score": 0.416,
       "bucket": "Moderate",
       "weather": {
-        "temp_c": 23.79,
-        "humidity_pct": 76.74,
-        "wind_ms": 5.07,
-        "wind_dir": 103.7,
-        "rain_7d_mm": 1.34
+        "temp_c": 22.92,
+        "humidity_pct": 84.03,
+        "wind_ms": 6.34,
+        "wind_dir": 140.7,
+        "rain_7d_mm": 2.1
+      }
+    },
+    {
+      "lat": -11,
+      "lon": 5,
+      "risk_score": 0.416,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 23.12,
+        "humidity_pct": 83.82,
+        "wind_ms": 5.5,
+        "wind_dir": 161.3,
+        "rain_7d_mm": 1.31
+      }
+    },
+    {
+      "lat": -11,
+      "lon": 9,
+      "risk_score": 0.416,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 24.29,
+        "humidity_pct": 81.02,
+        "wind_ms": 4.9,
+        "wind_dir": 176.2,
+        "rain_7d_mm": 1.45
       }
     },
     {
@@ -8532,6 +8324,19 @@
         "wind_ms": 6.28,
         "wind_dir": 155.1,
         "rain_7d_mm": 1.79
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -9,
+      "risk_score": 0.415,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 23.52,
+        "humidity_pct": 77.73,
+        "wind_ms": 5.93,
+        "wind_dir": 128.1,
+        "rain_7d_mm": 2.12
       }
     },
     {
@@ -8727,6 +8532,32 @@
         "wind_ms": 1.57,
         "wind_dir": 8.2,
         "rain_7d_mm": 1.54
+      }
+    },
+    {
+      "lat": -13,
+      "lon": 147,
+      "risk_score": 0.414,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 27.32,
+        "humidity_pct": 69.0,
+        "wind_ms": 4.76,
+        "wind_dir": 141.2,
+        "rain_7d_mm": 3.49
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -7,
+      "risk_score": 0.414,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 23.71,
+        "humidity_pct": 77.74,
+        "wind_ms": 5.72,
+        "wind_dir": 125.9,
+        "rain_7d_mm": 2.13
       }
     },
     {
@@ -8990,29 +8821,16 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 49,
-      "risk_score": 0.412,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.82,
-        "humidity_pct": 69.22,
-        "wind_ms": 2.64,
-        "wind_dir": 116.0,
-        "rain_7d_mm": 0.4
-      }
-    },
-    {
       "lat": -11,
-      "lon": 19,
+      "lon": 7,
       "risk_score": 0.412,
       "bucket": "Moderate",
       "weather": {
-        "temp_c": 22.95,
-        "humidity_pct": 53.12,
-        "wind_ms": 1.8,
-        "wind_dir": 118.5,
-        "rain_7d_mm": 0.37
+        "temp_c": 23.26,
+        "humidity_pct": 83.08,
+        "wind_ms": 5.12,
+        "wind_dir": 167.9,
+        "rain_7d_mm": 1.35
       }
     },
     {
@@ -9315,6 +9133,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": -3,
+      "risk_score": 0.41,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 23.56,
+        "humidity_pct": 81.05,
+        "wind_ms": 5.55,
+        "wind_dir": 132.8,
+        "rain_7d_mm": 2.14
+      }
+    },
+    {
       "lat": -9,
       "lon": 121,
       "risk_score": 0.41,
@@ -9406,32 +9237,6 @@
       }
     },
     {
-      "lat": -13,
-      "lon": 129,
-      "risk_score": 0.409,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 25.99,
-        "humidity_pct": 78.2,
-        "wind_ms": 2.37,
-        "wind_dir": 106.8,
-        "rain_7d_mm": 0.47
-      }
-    },
-    {
-      "lat": -11,
-      "lon": 3,
-      "risk_score": 0.409,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 19.56,
-        "humidity_pct": 87.17,
-        "wind_ms": 6.22,
-        "wind_dir": 136.6,
-        "rain_7d_mm": 0.26
-      }
-    },
-    {
       "lat": -7,
       "lon": -9,
       "risk_score": 0.409,
@@ -9494,6 +9299,19 @@
         "wind_ms": 2.9,
         "wind_dir": 315.3,
         "rain_7d_mm": 0.53
+      }
+    },
+    {
+      "lat": -13,
+      "lon": 39,
+      "risk_score": 0.408,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 28.84,
+        "humidity_pct": 57.5,
+        "wind_ms": 2.68,
+        "wind_dir": 41.5,
+        "rain_7d_mm": 3.77
       }
     },
     {
@@ -9601,19 +9419,6 @@
       }
     },
     {
-      "lat": -11,
-      "lon": 15,
-      "risk_score": 0.407,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 22.32,
-        "humidity_pct": 53.34,
-        "wind_ms": 1.65,
-        "wind_dir": 106.0,
-        "rain_7d_mm": 0.1
-      }
-    },
-    {
       "lat": 1,
       "lon": 133,
       "risk_score": 0.407,
@@ -9702,6 +9507,32 @@
         "wind_ms": 3.15,
         "wind_dir": 0.2,
         "rain_7d_mm": 10.34
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -81,
+      "risk_score": 0.406,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 25.4,
+        "humidity_pct": 82.09,
+        "wind_ms": 6.0,
+        "wind_dir": 154.3,
+        "rain_7d_mm": 4.21
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -5,
+      "risk_score": 0.406,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 23.36,
+        "humidity_pct": 79.89,
+        "wind_ms": 5.41,
+        "wind_dir": 129.2,
+        "rain_7d_mm": 2.21
       }
     },
     {
@@ -9923,6 +9754,19 @@
         "wind_ms": 6.24,
         "wind_dir": 122.0,
         "rain_7d_mm": 2.36
+      }
+    },
+    {
+      "lat": -13,
+      "lon": 143,
+      "risk_score": 0.405,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 28.31,
+        "humidity_pct": 59.78,
+        "wind_ms": 2.45,
+        "wind_dir": 92.9,
+        "rain_7d_mm": 2.52
       }
     },
     {
@@ -10160,16 +10004,16 @@
       }
     },
     {
-      "lat": -11,
-      "lon": 5,
+      "lat": -13,
+      "lon": 139,
       "risk_score": 0.404,
       "bucket": "Moderate",
       "weather": {
-        "temp_c": 19.48,
-        "humidity_pct": 86.72,
-        "wind_ms": 5.94,
-        "wind_dir": 145.2,
-        "rain_7d_mm": 0.3
+        "temp_c": 29.32,
+        "humidity_pct": 74.06,
+        "wind_ms": 2.62,
+        "wind_dir": 49.8,
+        "rain_7d_mm": 3.35
       }
     },
     {
@@ -10300,32 +10144,6 @@
         "wind_ms": 5.85,
         "wind_dir": 138.5,
         "rain_7d_mm": 1.94
-      }
-    },
-    {
-      "lat": -13,
-      "lon": 39,
-      "risk_score": 0.403,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 21.76,
-        "humidity_pct": 66.26,
-        "wind_ms": 4.51,
-        "wind_dir": 176.0,
-        "rain_7d_mm": 0.43
-      }
-    },
-    {
-      "lat": -11,
-      "lon": 7,
-      "risk_score": 0.403,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 19.95,
-        "humidity_pct": 85.67,
-        "wind_ms": 5.51,
-        "wind_dir": 158.4,
-        "rain_7d_mm": 0.27
       }
     },
     {
@@ -10560,19 +10378,6 @@
         "wind_ms": 5.88,
         "wind_dir": 149.9,
         "rain_7d_mm": 2.05
-      }
-    },
-    {
-      "lat": -11,
-      "lon": 23,
-      "risk_score": 0.402,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 23.28,
-        "humidity_pct": 53.76,
-        "wind_ms": 1.65,
-        "wind_dir": 136.9,
-        "rain_7d_mm": 0.91
       }
     },
     {
@@ -10824,15 +10629,15 @@
     },
     {
       "lat": -13,
-      "lon": 113,
+      "lon": 43,
       "risk_score": 0.4,
       "bucket": "Moderate",
       "weather": {
-        "temp_c": 25.59,
-        "humidity_pct": 74.97,
-        "wind_ms": 4.94,
-        "wind_dir": 108.7,
-        "rain_7d_mm": 3.66
+        "temp_c": 28.49,
+        "humidity_pct": 76.8,
+        "wind_ms": 3.47,
+        "wind_dir": 41.2,
+        "rain_7d_mm": 4.03
       }
     },
     {
@@ -11382,16 +11187,16 @@
       }
     },
     {
-      "lat": -11,
-      "lon": 9,
+      "lat": -13,
+      "lon": 149,
       "risk_score": 0.395,
       "bucket": "Moderate",
       "weather": {
-        "temp_c": 19.8,
-        "humidity_pct": 86.13,
-        "wind_ms": 4.86,
-        "wind_dir": 171.5,
-        "rain_7d_mm": 0.14
+        "temp_c": 27.28,
+        "humidity_pct": 68.3,
+        "wind_ms": 3.75,
+        "wind_dir": 151.9,
+        "rain_7d_mm": 3.9
       }
     },
     {
@@ -11548,19 +11353,6 @@
         "wind_ms": 5.78,
         "wind_dir": 130.3,
         "rain_7d_mm": 2.67
-      }
-    },
-    {
-      "lat": -13,
-      "lon": 143,
-      "risk_score": 0.393,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 23.81,
-        "humidity_pct": 74.83,
-        "wind_ms": 2.8,
-        "wind_dir": 104.0,
-        "rain_7d_mm": 0.77
       }
     },
     {
@@ -12552,19 +12344,6 @@
       }
     },
     {
-      "lat": -11,
-      "lon": 11,
-      "risk_score": 0.384,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 20.03,
-        "humidity_pct": 84.51,
-        "wind_ms": 4.21,
-        "wind_dir": 202.3,
-        "rain_7d_mm": 0.42
-      }
-    },
-    {
       "lat": -9,
       "lon": 99,
       "risk_score": 0.384,
@@ -12822,19 +12601,6 @@
         "wind_ms": 1.72,
         "wind_dir": 121.3,
         "rain_7d_mm": 0.06
-      }
-    },
-    {
-      "lat": -11,
-      "lon": 21,
-      "risk_score": 0.382,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 22.86,
-        "humidity_pct": 57.92,
-        "wind_ms": 1.85,
-        "wind_dir": 150.2,
-        "rain_7d_mm": 0.79
       }
     },
     {
@@ -13186,19 +12952,6 @@
         "wind_ms": 2.66,
         "wind_dir": 129.9,
         "rain_7d_mm": 15.74
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -57,
-      "risk_score": 0.379,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 24.97,
-        "humidity_pct": 73.22,
-        "wind_ms": 1.1,
-        "wind_dir": 181.2,
-        "rain_7d_mm": 0.83
       }
     },
     {
@@ -14177,6 +13930,19 @@
       }
     },
     {
+      "lat": -13,
+      "lon": 37,
+      "risk_score": 0.37,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 27.94,
+        "humidity_pct": 52.38,
+        "wind_ms": 1.6,
+        "wind_dir": 41.4,
+        "rain_7d_mm": 7.09
+      }
+    },
+    {
       "lat": -9,
       "lon": -61,
       "risk_score": 0.37,
@@ -14291,19 +14057,6 @@
         "wind_ms": 4.93,
         "wind_dir": 47.5,
         "rain_7d_mm": 1.58
-      }
-    },
-    {
-      "lat": -11,
-      "lon": 13,
-      "risk_score": 0.369,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 19.91,
-        "humidity_pct": 86.13,
-        "wind_ms": 2.97,
-        "wind_dir": 229.6,
-        "rain_7d_mm": 0.28
       }
     },
     {
@@ -15269,32 +15022,6 @@
       }
     },
     {
-      "lat": -11,
-      "lon": -39,
-      "risk_score": 0.36,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 24.51,
-        "humidity_pct": 68.46,
-        "wind_ms": 2.69,
-        "wind_dir": 107.0,
-        "rain_7d_mm": 3.77
-      }
-    },
-    {
-      "lat": -11,
-      "lon": 25,
-      "risk_score": 0.36,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 19.77,
-        "humidity_pct": 64.19,
-        "wind_ms": 2.12,
-        "wind_dir": 134.3,
-        "rain_7d_mm": 0.01
-      }
-    },
-    {
       "lat": -5,
       "lon": 7,
       "risk_score": 0.36,
@@ -15630,19 +15357,6 @@
         "wind_ms": 4.41,
         "wind_dir": 174.5,
         "rain_7d_mm": 2.01
-      }
-    },
-    {
-      "lat": -13,
-      "lon": 37,
-      "risk_score": 0.357,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 20.65,
-        "humidity_pct": 65.04,
-        "wind_ms": 1.91,
-        "wind_dir": 183.1,
-        "rain_7d_mm": 0.61
       }
     },
     {
@@ -16023,16 +15737,16 @@
       }
     },
     {
-      "lat": -11,
-      "lon": -71,
+      "lat": -13,
+      "lon": 135,
       "risk_score": 0.353,
       "bucket": "Moderate",
       "weather": {
-        "temp_c": 23.92,
-        "humidity_pct": 86.38,
-        "wind_ms": 0.53,
-        "wind_dir": 143.8,
-        "rain_7d_mm": 1.58
+        "temp_c": 33.24,
+        "humidity_pct": 53.29,
+        "wind_ms": 3.28,
+        "wind_dir": 31.7,
+        "rain_7d_mm": 13.44
       }
     },
     {
@@ -16166,6 +15880,19 @@
       }
     },
     {
+      "lat": -13,
+      "lon": 133,
+      "risk_score": 0.352,
+      "bucket": "Moderate",
+      "weather": {
+        "temp_c": 33.08,
+        "humidity_pct": 49.95,
+        "wind_ms": 3.08,
+        "wind_dir": 17.7,
+        "rain_7d_mm": 14.5
+      }
+    },
+    {
       "lat": 3,
       "lon": 95,
       "risk_score": 0.352,
@@ -16241,19 +15968,6 @@
         "wind_ms": 2.21,
         "wind_dir": 190.3,
         "rain_7d_mm": 0.29
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -73,
-      "risk_score": 0.351,
-      "bucket": "Moderate",
-      "weather": {
-        "temp_c": 24.24,
-        "humidity_pct": 86.12,
-        "wind_ms": 0.62,
-        "wind_dir": 171.6,
-        "rain_7d_mm": 2.04
       }
     },
     {
@@ -16907,6 +16621,19 @@
       }
     },
     {
+      "lat": -13,
+      "lon": 47,
+      "risk_score": 0.344,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 28.35,
+        "humidity_pct": 75.69,
+        "wind_ms": 2.51,
+        "wind_dir": 82.1,
+        "rain_7d_mm": 7.39
+      }
+    },
+    {
       "lat": 9,
       "lon": 165,
       "risk_score": 0.344,
@@ -17008,19 +16735,6 @@
         "wind_ms": 3.35,
         "wind_dir": 91.0,
         "rain_7d_mm": 3.5
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -59,
-      "risk_score": 0.343,
-      "bucket": "Low",
-      "weather": {
-        "temp_c": 25.24,
-        "humidity_pct": 78.82,
-        "wind_ms": 1.26,
-        "wind_dir": 173.2,
-        "rain_7d_mm": 4.06
       }
     },
     {
@@ -17232,16 +16946,16 @@
       }
     },
     {
-      "lat": -11,
-      "lon": -65,
+      "lat": -13,
+      "lon": 129,
       "risk_score": 0.341,
       "bucket": "Low",
       "weather": {
-        "temp_c": 25.94,
-        "humidity_pct": 76.23,
-        "wind_ms": 0.88,
-        "wind_dir": 79.0,
-        "rain_7d_mm": 4.32
+        "temp_c": 29.85,
+        "humidity_pct": 78.56,
+        "wind_ms": 3.57,
+        "wind_dir": 246.5,
+        "rain_7d_mm": 9.75
       }
     },
     {
@@ -17671,19 +17385,6 @@
         "wind_ms": 6.85,
         "wind_dir": 77.3,
         "rain_7d_mm": 11.55
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -69,
-      "risk_score": 0.338,
-      "bucket": "Low",
-      "weather": {
-        "temp_c": 25.17,
-        "humidity_pct": 78.8,
-        "wind_ms": 0.61,
-        "wind_dir": 95.1,
-        "rain_7d_mm": 3.74
       }
     },
     {
@@ -19598,6 +19299,19 @@
       }
     },
     {
+      "lat": -13,
+      "lon": 45,
+      "risk_score": 0.319,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 28.53,
+        "humidity_pct": 74.57,
+        "wind_ms": 2.3,
+        "wind_dir": 39.2,
+        "rain_7d_mm": 9.31
+      }
+    },
+    {
       "lat": -9,
       "lon": 143,
       "risk_score": 0.319,
@@ -19686,6 +19400,19 @@
         "wind_ms": 0.98,
         "wind_dir": 78.9,
         "rain_7d_mm": 0.78
+      }
+    },
+    {
+      "lat": -13,
+      "lon": 151,
+      "risk_score": 0.318,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 27.63,
+        "humidity_pct": 71.91,
+        "wind_ms": 3.41,
+        "wind_dir": 175.5,
+        "rain_7d_mm": 9.97
       }
     },
     {
@@ -20011,19 +19738,6 @@
         "wind_ms": 3.29,
         "wind_dir": 300.3,
         "rain_7d_mm": 13.6
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -77,
-      "risk_score": 0.315,
-      "bucket": "Low",
-      "weather": {
-        "temp_c": 14.0,
-        "humidity_pct": 56.79,
-        "wind_ms": 1.48,
-        "wind_dir": 205.9,
-        "rain_7d_mm": 0.31
       }
     },
     {
@@ -20794,19 +20508,6 @@
       }
     },
     {
-      "lat": -11,
-      "lon": -63,
-      "risk_score": 0.307,
-      "bucket": "Low",
-      "weather": {
-        "temp_c": 25.61,
-        "humidity_pct": 77.21,
-        "wind_ms": 0.64,
-        "wind_dir": 127.7,
-        "rain_7d_mm": 6.5
-      }
-    },
-    {
       "lat": 69,
       "lon": -101,
       "risk_score": 0.307,
@@ -21181,19 +20882,6 @@
         "wind_ms": 2.01,
         "wind_dir": 330.2,
         "rain_7d_mm": 14.62
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -67,
-      "risk_score": 0.304,
-      "bucket": "Low",
-      "weather": {
-        "temp_c": 26.02,
-        "humidity_pct": 80.95,
-        "wind_ms": 0.68,
-        "wind_dir": 310.6,
-        "rain_7d_mm": 7.07
       }
     },
     {
@@ -22289,19 +21977,6 @@
       }
     },
     {
-      "lat": -11,
-      "lon": -75,
-      "risk_score": 0.294,
-      "bucket": "Low",
-      "weather": {
-        "temp_c": 16.75,
-        "humidity_pct": 78.97,
-        "wind_ms": 1.08,
-        "wind_dir": 296.6,
-        "rain_7d_mm": 2.14
-      }
-    },
-    {
       "lat": -9,
       "lon": -37,
       "risk_score": 0.294,
@@ -23365,6 +23040,19 @@
         "wind_ms": 5.14,
         "wind_dir": 6.2,
         "rain_7d_mm": 2.6
+      }
+    },
+    {
+      "lat": -13,
+      "lon": 51,
+      "risk_score": 0.285,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 27.43,
+        "humidity_pct": 79.26,
+        "wind_ms": 8.0,
+        "wind_dir": 145.8,
+        "rain_7d_mm": 17.39
       }
     },
     {
@@ -24772,6 +24460,19 @@
       }
     },
     {
+      "lat": -13,
+      "lon": 141,
+      "risk_score": 0.275,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 29.22,
+        "humidity_pct": 67.49,
+        "wind_ms": 3.83,
+        "wind_dir": 35.7,
+        "rain_7d_mm": 14.86
+      }
+    },
+    {
       "lat": 3,
       "lon": 23,
       "risk_score": 0.275,
@@ -25006,6 +24707,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": -51,
+      "risk_score": 0.273,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 33.56,
+        "humidity_pct": 50.17,
+        "wind_ms": 2.09,
+        "wind_dir": 49.5,
+        "rain_7d_mm": 23.3
+      }
+    },
+    {
       "lat": 5,
       "lon": -41,
       "risk_score": 0.273,
@@ -25172,19 +24886,6 @@
         "wind_ms": 3.89,
         "wind_dir": 339.9,
         "rain_7d_mm": 4.45
-      }
-    },
-    {
-      "lat": -11,
-      "lon": -61,
-      "risk_score": 0.272,
-      "bucket": "Low",
-      "weather": {
-        "temp_c": 26.24,
-        "humidity_pct": 77.4,
-        "wind_ms": 0.94,
-        "wind_dir": 85.4,
-        "rain_7d_mm": 10.09
       }
     },
     {
@@ -27086,19 +26787,6 @@
       }
     },
     {
-      "lat": -11,
-      "lon": -37,
-      "risk_score": 0.257,
-      "bucket": "Low",
-      "weather": {
-        "temp_c": 25.54,
-        "humidity_pct": 78.71,
-        "wind_ms": 3.46,
-        "wind_dir": 108.7,
-        "rain_7d_mm": 13.52
-      }
-    },
-    {
       "lat": 5,
       "lon": -51,
       "risk_score": 0.257,
@@ -27642,6 +27330,19 @@
         "wind_ms": 6.11,
         "wind_dir": 257.0,
         "rain_7d_mm": 9.92
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -47,
+      "risk_score": 0.251,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 30.1,
+        "humidity_pct": 55.08,
+        "wind_ms": 2.36,
+        "wind_dir": 121.7,
+        "rain_7d_mm": 17.8
       }
     },
     {
@@ -30362,6 +30063,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": -59,
+      "risk_score": 0.226,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 27.53,
+        "humidity_pct": 79.23,
+        "wind_ms": 0.82,
+        "wind_dir": 86.9,
+        "rain_7d_mm": 14.52
+      }
+    },
+    {
       "lat": 7,
       "lon": -139,
       "risk_score": 0.226,
@@ -31337,6 +31051,19 @@
       }
     },
     {
+      "lat": -13,
+      "lon": 153,
+      "risk_score": 0.218,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 27.84,
+        "humidity_pct": 71.48,
+        "wind_ms": 3.18,
+        "wind_dir": 172.0,
+        "rain_7d_mm": 17.81
+      }
+    },
+    {
       "lat": 61,
       "lon": -7,
       "risk_score": 0.218,
@@ -32013,6 +31740,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": 13,
+      "risk_score": 0.211,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 26.36,
+        "humidity_pct": 83.48,
+        "wind_ms": 2.5,
+        "wind_dir": 213.4,
+        "rain_7d_mm": 16.72
+      }
+    },
+    {
       "lat": 9,
       "lon": 171,
       "risk_score": 0.211,
@@ -32429,6 +32169,19 @@
       }
     },
     {
+      "lat": -13,
+      "lon": 131,
+      "risk_score": 0.205,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 31.79,
+        "humidity_pct": 70.16,
+        "wind_ms": 1.78,
+        "wind_dir": 326.0,
+        "rain_7d_mm": 32.17
+      }
+    },
+    {
       "lat": 7,
       "lon": -159,
       "risk_score": 0.205,
@@ -32582,6 +32335,19 @@
         "wind_ms": 1.79,
         "wind_dir": 149.9,
         "rain_7d_mm": 16.04
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -53,
+      "risk_score": 0.203,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 30.5,
+        "humidity_pct": 55.76,
+        "wind_ms": 0.83,
+        "wind_dir": 27.4,
+        "rain_7d_mm": 26.12
       }
     },
     {
@@ -33089,6 +32855,19 @@
         "wind_ms": 2.89,
         "wind_dir": 288.5,
         "rain_7d_mm": 7.31
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -49,
+      "risk_score": 0.196,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 30.55,
+        "humidity_pct": 66.95,
+        "wind_ms": 1.82,
+        "wind_dir": 115.6,
+        "rain_7d_mm": 30.11
       }
     },
     {
@@ -34691,6 +34470,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": -67,
+      "risk_score": 0.172,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 29.34,
+        "humidity_pct": 70.64,
+        "wind_ms": 0.78,
+        "wind_dir": 339.8,
+        "rain_7d_mm": 28.4
+      }
+    },
+    {
       "lat": 63,
       "lon": 103,
       "risk_score": 0.172,
@@ -34766,6 +34558,19 @@
         "wind_ms": 3.36,
         "wind_dir": 190.1,
         "rain_7d_mm": 10.02
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -61,
+      "risk_score": 0.169,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 29.25,
+        "humidity_pct": 70.63,
+        "wind_ms": 0.68,
+        "wind_dir": 38.7,
+        "rain_7d_mm": 28.02
       }
     },
     {
@@ -34922,6 +34727,19 @@
         "wind_ms": 0.94,
         "wind_dir": 10.1,
         "rain_7d_mm": 21.48
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -55,
+      "risk_score": 0.166,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 28.78,
+        "humidity_pct": 68.07,
+        "wind_ms": 0.68,
+        "wind_dir": 82.4,
+        "rain_7d_mm": 23.98
       }
     },
     {
@@ -35367,6 +35185,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": -63,
+      "risk_score": 0.16,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 28.13,
+        "humidity_pct": 75.33,
+        "wind_ms": 0.67,
+        "wind_dir": 2.1,
+        "rain_7d_mm": 26.97
+      }
+    },
+    {
       "lat": 1,
       "lon": -61,
       "risk_score": 0.16,
@@ -35494,6 +35325,19 @@
         "wind_ms": 1.84,
         "wind_dir": 58.8,
         "rain_7d_mm": 41.95
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -57,
+      "risk_score": 0.157,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 27.52,
+        "humidity_pct": 76.54,
+        "wind_ms": 0.82,
+        "wind_dir": 95.3,
+        "rain_7d_mm": 29.12
       }
     },
     {
@@ -35666,6 +35510,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": -69,
+      "risk_score": 0.155,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 27.31,
+        "humidity_pct": 82.33,
+        "wind_ms": 0.8,
+        "wind_dir": 342.0,
+        "rain_7d_mm": 23.67
+      }
+    },
+    {
       "lat": 3,
       "lon": 31,
       "risk_score": 0.155,
@@ -35754,6 +35611,19 @@
         "wind_ms": 2.03,
         "wind_dir": 315.4,
         "rain_7d_mm": 52.7
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -65,
+      "risk_score": 0.154,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 27.24,
+        "humidity_pct": 84.48,
+        "wind_ms": 0.74,
+        "wind_dir": 57.0,
+        "rain_7d_mm": 26.0
       }
     },
     {
@@ -36745,6 +36615,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": -71,
+      "risk_score": 0.141,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 25.78,
+        "humidity_pct": 89.93,
+        "wind_ms": 0.69,
+        "wind_dir": 326.2,
+        "rain_7d_mm": 35.63
+      }
+    },
+    {
       "lat": 3,
       "lon": -73,
       "risk_score": 0.141,
@@ -36768,6 +36651,19 @@
         "wind_ms": 1.75,
         "wind_dir": 212.0,
         "rain_7d_mm": 30.32
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -73,
+      "risk_score": 0.14,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 25.95,
+        "humidity_pct": 91.96,
+        "wind_ms": 0.56,
+        "wind_dir": 359.0,
+        "rain_7d_mm": 37.16
       }
     },
     {
@@ -38292,6 +38188,19 @@
       }
     },
     {
+      "lat": -11,
+      "lon": 21,
+      "risk_score": 0.111,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 22.02,
+        "humidity_pct": 85.64,
+        "wind_ms": 0.8,
+        "wind_dir": 1.3,
+        "rain_7d_mm": 36.38
+      }
+    },
+    {
       "lat": 77,
       "lon": 53,
       "risk_score": 0.111,
@@ -38302,6 +38211,19 @@
         "wind_ms": 7.09,
         "wind_dir": 161.5,
         "rain_7d_mm": 18.65
+      }
+    },
+    {
+      "lat": -11,
+      "lon": 25,
+      "risk_score": 0.109,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 21.44,
+        "humidity_pct": 84.84,
+        "wind_ms": 1.06,
+        "wind_dir": 289.1,
+        "rain_7d_mm": 53.66
       }
     },
     {
@@ -38484,6 +38406,19 @@
         "wind_ms": 3.84,
         "wind_dir": 139.8,
         "rain_7d_mm": 34.01
+      }
+    },
+    {
+      "lat": -11,
+      "lon": 15,
+      "risk_score": 0.102,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 21.11,
+        "humidity_pct": 85.27,
+        "wind_ms": 0.72,
+        "wind_dir": 49.0,
+        "rain_7d_mm": 36.17
       }
     },
     {
@@ -38695,6 +38630,32 @@
       }
     },
     {
+      "lat": -11,
+      "lon": 17,
+      "risk_score": 0.096,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 20.27,
+        "humidity_pct": 85.47,
+        "wind_ms": 0.78,
+        "wind_dir": 34.1,
+        "rain_7d_mm": 33.05
+      }
+    },
+    {
+      "lat": -11,
+      "lon": 23,
+      "risk_score": 0.096,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 20.61,
+        "humidity_pct": 93.81,
+        "wind_ms": 0.55,
+        "wind_dir": 9.8,
+        "rain_7d_mm": 60.2
+      }
+    },
+    {
       "lat": 69,
       "lon": 15,
       "risk_score": 0.096,
@@ -38770,6 +38731,32 @@
         "wind_ms": 7.02,
         "wind_dir": 170.4,
         "rain_7d_mm": 31.22
+      }
+    },
+    {
+      "lat": -11,
+      "lon": 19,
+      "risk_score": 0.093,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 20.06,
+        "humidity_pct": 92.81,
+        "wind_ms": 0.67,
+        "wind_dir": 308.5,
+        "rain_7d_mm": 96.45
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -75,
+      "risk_score": 0.091,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 19.42,
+        "humidity_pct": 88.65,
+        "wind_ms": 0.94,
+        "wind_dir": 26.3,
+        "rain_7d_mm": 46.58
       }
     },
     {
@@ -39186,6 +39173,19 @@
         "wind_ms": 4.66,
         "wind_dir": 296.2,
         "rain_7d_mm": 35.36
+      }
+    },
+    {
+      "lat": -11,
+      "lon": -77,
+      "risk_score": 0.062,
+      "bucket": "Low",
+      "weather": {
+        "temp_c": 14.76,
+        "humidity_pct": 76.59,
+        "wind_ms": 1.7,
+        "wind_dir": 243.8,
+        "rain_7d_mm": 23.42
       }
     },
     {
